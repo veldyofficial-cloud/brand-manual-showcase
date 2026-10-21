@@ -1,0 +1,204 @@
+[
+ {
+  "id": "moadam",
+  "nameKo": "모아담 티하우스",
+  "nameEn": "MOADAM",
+  "tagline": "A SEASON IN EVERY CUP",
+  "oneLiner": "제철 찻잎과 우리 꽃·열매로 한 잔에 계절을 담는 티하우스입니다",
+  "industry": "티하우스 · 블렌딩 티 브랜드",
+  "tone": "차분함, 따뜻함, 정갈함, 감각적",
+  "detected": "tea·lifestyle · 프리미엄",
+  "colors": [
+   "#1F4E4A",
+   "#D9C7A7",
+   "#C8643B",
+   "#F5F1EA"
+  ],
+  "logo": "brands/moadam/logo.png",
+  "docs": [
+   {
+    "id": "onepager",
+    "label": "A. 원페이퍼 가이드라인",
+    "pages": 1,
+    "pdf": "brands/moadam/docs/MOADAM_A_OnePaper_Guideline.pdf",
+    "thumbs": [
+     "brands/moadam/thumbs/onepager-01.jpg"
+    ]
+   },
+   {
+    "id": "keyvisual",
+    "label": "B. 키비주얼",
+    "pages": 7,
+    "pdf": "brands/moadam/docs/MOADAM_B_Key_Visual.pdf",
+    "thumbs": [
+     "brands/moadam/thumbs/keyvisual-01.jpg",
+     "brands/moadam/thumbs/keyvisual-02.jpg",
+     "brands/moadam/thumbs/keyvisual-03.jpg",
+     "brands/moadam/thumbs/keyvisual-04.jpg",
+     "brands/moadam/thumbs/keyvisual-05.jpg",
+     "brands/moadam/thumbs/keyvisual-06.jpg",
+     "brands/moadam/thumbs/keyvisual-07.jpg"
+    ]
+   },
+   {
+    "id": "manual",
+    "label": "C. 브랜딩 매뉴얼",
+    "pages": 22,
+    "pdf": "brands/moadam/docs/MOADAM_C_Branding_Manual.pdf",
+    "thumbs": [
+     "brands/moadam/thumbs/manual-01.jpg",
+     "brands/moadam/thumbs/manual-03.jpg",
+     "brands/moadam/thumbs/manual-06.jpg",
+     "brands/moadam/thumbs/manual-09.jpg",
+     "brands/moadam/thumbs/manual-12.jpg",
+     "brands/moadam/thumbs/manual-14.jpg",
+     "brands/moadam/thumbs/manual-17.jpg",
+     "brands/moadam/thumbs/manual-20.jpg"
+    ]
+   },
+   {
+    "id": "company",
+    "label": "D. 회사소개서 (16:9)",
+    "pages": 32,
+    "pdf": "brands/moadam/docs/MOADAM_D_Company_Profile.pdf",
+    "thumbs": [
+     "brands/moadam/thumbs/company-01.jpg",
+     "brands/moadam/thumbs/company-05.jpg",
+     "brands/moadam/thumbs/company-09.jpg",
+     "brands/moadam/thumbs/company-13.jpg",
+     "brands/moadam/thumbs/company-17.jpg",
+     "brands/moadam/thumbs/company-21.jpg",
+     "brands/moadam/thumbs/company-25.jpg",
+     "brands/moadam/thumbs/company-29.jpg"
+    ]
+   }
+  ],
+  "mockups": [
+   {
+    "label": "블랙 명함 (금박)",
+    "src": "brands/moadam/mockups/card-black-hand.jpg"
+   },
+   {
+    "label": "외벽 사인 (담쟁이)",
+    "src": "brands/moadam/mockups/sign-vine-wall.jpg"
+   },
+   {
+    "label": "쇼핑백 (대리석 위)",
+    "src": "brands/moadam/mockups/bag-paper-marble.jpg"
+   },
+   {
+    "label": "패키지 박스 (크라프트)",
+    "src": "brands/moadam/mockups/box-kraft.jpg"
+   },
+   {
+    "label": "앰버 유리병 라벨",
+    "src": "brands/moadam/mockups/jar-amber.jpg"
+   },
+   {
+    "label": "종이컵",
+    "src": "brands/moadam/mockups/paper-cup.jpg"
+   }
+  ]
+ },
+ {
+  "id": "lumen",
+  "nameKo": "루멘 스킨랩",
+  "nameEn": "LUMEN",
+  "tagline": "LIGHT FROM WITHIN",
+  "oneLiner": "예민한 피부도 안심하고 쓰는 저자극 클린 스킨케어 브랜드입니다",
+  "industry": "스킨케어 · 코스메틱 브랜드",
+  "tone": "미니멀, 섬세함, 신뢰, 고급",
+  "detected": "beauty · 프리미엄",
+  "colors": [
+   "#3A3430",
+   "#C9B8A6",
+   "#B0896B",
+   "#F4EFE9"
+  ],
+  "logo": "brands/lumen/logo.png",
+  "docs": [
+   {
+    "id": "onepager",
+    "label": "A. 원페이퍼 가이드라인",
+    "pages": 1,
+    "pdf": "brands/lumen/docs/LUMEN_A_OnePaper_Guideline.pdf",
+    "thumbs": [
+     "brands/lumen/thumbs/onepager-01.jpg"
+    ]
+   },
+   {
+    "id": "keyvisual",
+    "label": "B. 키비주얼",
+    "pages": 7,
+    "pdf": "brands/lumen/docs/LUMEN_B_Key_Visual.pdf",
+    "thumbs": [
+     "brands/lumen/thumbs/keyvisual-01.jpg",
+     "brands/lumen/thumbs/keyvisual-02.jpg",
+     "brands/lumen/thumbs/keyvisual-03.jpg",
+     "brands/lumen/thumbs/keyvisual-04.jpg",
+     "brands/lumen/thumbs/keyvisual-05.jpg",
+     "brands/lumen/thumbs/keyvisual-06.jpg",
+     "brands/lumen/thumbs/keyvisual-07.jpg"
+    ]
+   },
+   {
+    "id": "manual",
+    "label": "C. 브랜딩 매뉴얼",
+    "pages": 22,
+    "pdf": "brands/lumen/docs/LUMEN_C_Branding_Manual.pdf",
+    "thumbs": [
+     "brands/lumen/thumbs/manual-01.jpg",
+     "brands/lumen/thumbs/manual-03.jpg",
+     "brands/lumen/thumbs/manual-06.jpg",
+     "brands/lumen/thumbs/manual-09.jpg",
+     "brands/lumen/thumbs/manual-12.jpg",
+     "brands/lumen/thumbs/manual-14.jpg",
+     "brands/lumen/thumbs/manual-17.jpg",
+     "brands/lumen/thumbs/manual-20.jpg"
+    ]
+   },
+   {
+    "id": "company",
+    "label": "D. 회사소개서 (16:9)",
+    "pages": 32,
+    "pdf": "brands/lumen/docs/LUMEN_D_Company_Profile.pdf",
+    "thumbs": [
+     "brands/lumen/thumbs/company-01.jpg",
+     "brands/lumen/thumbs/company-05.jpg",
+     "brands/lumen/thumbs/company-09.jpg",
+     "brands/lumen/thumbs/company-13.jpg",
+     "brands/lumen/thumbs/company-17.jpg",
+     "brands/lumen/thumbs/company-21.jpg",
+     "brands/lumen/thumbs/company-25.jpg",
+     "brands/lumen/thumbs/company-29.jpg"
+    ]
+   }
+  ],
+  "mockups": [
+   {
+    "label": "블랙 명함 (금박)",
+    "src": "brands/lumen/mockups/card-black-hand.jpg"
+   },
+   {
+    "label": "외벽 사인 (담쟁이)",
+    "src": "brands/lumen/mockups/sign-vine-wall.jpg"
+   },
+   {
+    "label": "쇼핑백 (대리석 위)",
+    "src": "brands/lumen/mockups/bag-paper-marble.jpg"
+   },
+   {
+    "label": "앰버 드로퍼 병 라벨",
+    "src": "brands/lumen/mockups/bottle-dropper.jpg"
+   },
+   {
+    "label": "패키지 박스 (스톤)",
+    "src": "brands/lumen/mockups/box-stone.jpg"
+   },
+   {
+    "label": "앰버 유리병 라벨",
+    "src": "brands/lumen/mockups/jar-amber.jpg"
+   }
+  ]
+ }
+]
