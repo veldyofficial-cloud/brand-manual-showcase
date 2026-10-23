@@ -1,3 +1,6 @@
+@font-face { font-family: Pretendard; src: url('../fonts/Pretendard-Regular.otf') format('opentype'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Pretendard; src: url('../fonts/Pretendard-SemiBold.otf') format('opentype'); font-weight: 500 600; font-display: swap; }
+@font-face { font-family: Pretendard; src: url('../fonts/Pretendard-Bold.otf') format('opentype'); font-weight: 700; font-display: swap; }
 :root {
   --bg: #ffffff;
   --ink: #111111;
@@ -22,6 +25,22 @@ a { color: inherit; }
 
 main { max-width: 720px; margin: 0 auto; padding: 0 24px 96px; }
 form { display: grid; gap: 10px; }
+details { padding: 14px 16px; border: 1px solid var(--fill); border-radius: 10px; }
+summary { cursor: pointer; font-weight: 500; }
+.help { color: var(--sub); font-size: 13px; }
+.uploads, .english-fields { display: grid; gap: 14px; }
+.uploads label, .english-fields label { display: grid; gap: 6px; font-size: 13px; }
+.uploads input { max-width: 100%; }
+.d-photo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.photo-upload { min-width: 0; padding: 12px; background: var(--fill); border-radius: 8px; }
+.photo-upload small, .photo-name { color: var(--sub); font-size: 12px; }
+.photo-upload img { display: block; width: 100%; height: 130px; object-fit: contain; margin: 10px 0; }
+.photo-name { display: block; overflow-wrap: anywhere; }
+.batch-upload { display: grid; gap: 8px; font-size: 13px; }
+#d-photo-count { display: block; margin-top: 4px; font-size: 12px; color: var(--sub); }
+#d-photo-error { color: #c53030; font-size: 13px; }
+.doc-opt small { display: block !important; opacity: .7; font-size: 11px; }
+[hidden] { display: none !important; }
 .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 
 input:not([type=file]):not([type=checkbox]):not([type=color]), textarea {
@@ -99,6 +118,7 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
 .lightbox img { max-width: 100%; max-height: 92vh; }
 
 @media (max-width: 640px) {
+  .d-photo-grid { grid-template-columns: 1fr; }
   .top, main { padding-left: 16px; padding-right: 16px; }
   .row { grid-template-columns: 1fr; }
   .mocks { grid-template-columns: repeat(2, minmax(0, 1fr)); }

@@ -4,14 +4,13 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Brand Manual</title>
-<meta name="description" content="로고와 브랜드 정보로 브랜드 문서 PDF와 목업을 만듭니다." />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<meta name="description" content="브랜드 정보와 완성된 목업 이미지로 브랜드 문서 PDF를 만듭니다." />
 <link rel="stylesheet" href="app/style.css" />
 </head>
 <body>
 <header class="top">
   <span class="logo">Brand Manual</span>
-  <a href="showcase.html">샘플</a>
+  <a href="https://veldyofficial-cloud.github.io/brand-manual-showcase/showcase.html">샘플</a>
 </header>
 
 <main>
@@ -34,6 +33,54 @@
         <input name="tone" placeholder="톤앤매너" />
       </div>
       <input name="slogan" placeholder="슬로건" />
+
+      <details>
+        <summary>로고 종류별 업로드 (선택)</summary>
+        <p class="help">기본 로고와 다른 파일이 있을 때 넣어 주세요. 비워두면 기본 로고를 사용합니다.</p>
+        <div class="uploads">
+          <label>심볼<input type="file" data-logo="symbol" accept="image/png,image/jpeg,image/svg+xml,image/webp" /></label>
+          <label>워드마크<input type="file" data-logo="wordmark" accept="image/png,image/jpeg,image/svg+xml,image/webp" /></label>
+          <label>세로 조합형<input type="file" data-logo="comboV" accept="image/png,image/jpeg,image/svg+xml,image/webp" /></label>
+          <label>가로 조합형<input type="file" data-logo="comboH" accept="image/png,image/jpeg,image/svg+xml,image/webp" /></label>
+        </div>
+      </details>
+
+      <details>
+        <summary>기업 서체 · D 전용 서체 (선택)</summary>
+        <p class="help">기업 서체는 A·C의 서체 소개·견본에 적용합니다. D 전용 서체는 D 전체에 적용합니다. 비워두면 기본 서체를 사용합니다.</p>
+        <div class="uploads">
+          <label>기업 제목 서체 · 기본<input type="file" data-font="headingRegular" accept=".otf,.ttf" /></label>
+          <label>기업 제목 서체 · 굵게 (선택)<input type="file" data-font="headingBold" accept=".otf,.ttf" /></label>
+          <label>기업 본문 서체<input type="file" data-font="body" accept=".otf,.ttf" /></label>
+          <label>D 전용 서체<input type="file" data-font="d" accept=".otf,.ttf" /></label>
+        </div>
+      </details>
+
+      <details>
+        <summary>B 키비주얼 사진 (선택)</summary>
+        <p class="help">마지막 페이지에 들어갈 사진 3장입니다. 비워두면 브랜드 컬러로 채웁니다.</p>
+        <div class="uploads">
+          <label>왼쪽<input type="file" data-photo="photo1" accept="image/png,image/jpeg,image/webp" /></label>
+          <label>가운데<input type="file" data-photo="photo2" accept="image/png,image/jpeg,image/webp" /></label>
+          <label>오른쪽<input type="file" data-photo="photo3" accept="image/png,image/jpeg,image/webp" /></label>
+        </div>
+      </details>
+
+      <details id="d-photo-section">
+        <summary>D 완성 목업 · 사진 첨부 <span id="d-photo-count" aria-live="polite"></span></summary>
+        <p class="help" id="d-photo-help">D를 만들려면 완성된 이미지 총 17장이 필요합니다. 각 페이지에 넣을 목업·사진을 첨부하세요. 이미지는 비율을 유지해 전체가 보이도록 배치하며, 칸과 비율이 다르면 여백이 생깁니다. 로고와 문구가 필요한 이미지는 작업을 마친 파일을 넣어 주세요.</p>
+        <label class="batch-upload">17장 한 번에 첨부<input id="d-photo-batch" type="file" multiple accept="image/png,image/jpeg,image/webp" /></label>
+        <p class="help">일괄 첨부는 파일명 순서(01, 02, …, 17)로 아래 페이지에 배정됩니다. 미리보기에서 배치를 확인하고 개별 교체할 수 있습니다.</p>
+        <p id="d-photo-error" role="alert" hidden></p>
+        <div class="uploads d-photo-grid" id="d-photos"></div>
+      </details>
+
+      <details>
+        <summary>D 고객별 영문 문구</summary>
+        <p class="help">고객의 영어 문구를 항목별로 입력하세요. 비운 항목은 기본 문장으로 채우며, 생성 후에도 수정할 수 있습니다.</p>
+        <button type="button" class="text" id="fill-english">빈 항목에 기본 문구 채우기</button>
+        <div class="english-fields" id="d-fields"></div>
+      </details>
 
       <p class="label">업종</p>
       <div class="pills" id="industries"></div>
@@ -71,7 +118,7 @@
     <p class="status" id="status"></p>
     <div class="progress"><div id="bar"></div></div>
 
-    <p class="label">목업 <span id="picked"></span></p>
+    <p class="label">첨부 이미지 <span id="picked"></span></p>
     <div class="mocks" id="mocks"></div>
 
     <p class="label">문서</p>
@@ -90,8 +137,8 @@
     <button class="text" id="new">새로 만들기</button>
   </section>
 </main>
-<script src="https://cdn.jsdelivr.net/npm/pdfkit@0.17.2/js/pdfkit.standalone.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<script src="app/pdfkit.js"></script>
+<script src="app/jszip.js"></script>
 <script type="module" src="app/app.js"></script>
 </body>
 </html>

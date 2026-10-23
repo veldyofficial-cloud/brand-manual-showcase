@@ -1,0 +1,2477 @@
+{
+ "id": "keyvisual",
+ "source": "B_keyvisual.afdesign (JUNISH KEY VISUAL)",
+ "page": {
+  "w": 297,
+  "h": 210
+ },
+ "pages": [
+  {
+   "bg": {
+    "svg": "B-bg-Cover.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "JUNISH COSMETIC CLINIC\nBRAND IDENTITY\nKEY VISUAL",
+     "kind": "art",
+     "box": [
+      28.696,
+      29.369,
+      79.856,
+      23.296
+     ],
+     "lines": [
+      {
+       "x": 28.773,
+       "baseline": 33.606,
+       "right": 28.773,
+       "text": "JUNISH COSMETIC CLINIC"
+      },
+      {
+       "x": 28.773,
+       "baseline": 43.105,
+       "right": 28.773,
+       "text": "BRAND IDENTITY"
+      },
+      {
+       "x": 28.773,
+       "baseline": 52.602,
+       "right": 28.773,
+       "text": "KEY VISUAL"
+      }
+     ],
+     "lineStep": 9.499,
+     "size": 16.924,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-SemiBold",
+     "tracking": 0,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{kv.nameUpper}}\nBRAND IDENTITY\nKEY VISUAL",
+     "maxWidth": 200
+    },
+    {
+     "id": "t1",
+     "text": "JUNISH COSMETIC CLINIC\nBRAND IDENTITY DESIGN",
+     "kind": "art",
+     "box": [
+      28.64,
+      132.49,
+      36.068,
+      6.798
+     ],
+     "lines": [
+      {
+       "x": 28.681,
+       "baseline": 134.387,
+       "right": 28.681,
+       "text": "JUNISH COSMETIC CLINIC"
+      },
+      {
+       "x": 28.681,
+       "baseline": 139.251,
+       "right": 28.681,
+       "text": "BRAND IDENTITY DESIGN"
+      }
+     ],
+     "lineStep": 4.864,
+     "size": 7.57,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "slot": "{{kv.nameUpper}}\nBRAND IDENTITY DESIGN",
+     "maxWidth": 120
+    },
+    {
+     "id": "t2",
+     "text": "Team Leader / Junie Park",
+     "kind": "art",
+     "box": [
+      28.693,
+      150.312,
+      33.6,
+      2.516
+     ],
+     "lines": [
+      {
+       "x": 28.681,
+       "baseline": 152.555,
+       "right": 28.681,
+       "text": "Team Leader / Junie Park"
+      }
+     ],
+     "lineStep": null,
+     "size": 7.57,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Regular",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Regular",
+     "slot": "{{contact.role}} / {{contact.person}}",
+     "optional": true,
+     "maxWidth": 120
+    },
+    {
+     "id": "t3",
+     "text": "Branding Director / Chaeah Hong\nBX Lead Designer / Chaeah Hong\nBX Designer / Ayoung Choi, Zoey Kim, Siwoo Kim\nEditor / Sion Kim",
+     "kind": "art",
+     "box": [
+      28.987,
+      164.46,
+      64.765,
+      15.888
+     ],
+     "lines": [
+      {
+       "x": 28.681,
+       "baseline": 166.703,
+       "right": 28.681,
+       "text": "Branding Director / Chaeah Hong"
+      },
+      {
+       "x": 28.681,
+       "baseline": 171.16,
+       "right": 28.681,
+       "text": "BX Lead Designer / Chaeah Hong"
+      },
+      {
+       "x": 28.681,
+       "baseline": 175.617,
+       "right": 28.681,
+       "text": "BX Designer / Ayoung Choi, Zoey Kim, Siwoo Kim"
+      },
+      {
+       "x": 28.681,
+       "baseline": 180.074,
+       "right": 28.681,
+       "text": "Editor / Sion Kim"
+      }
+     ],
+     "lineStep": 4.457,
+     "size": 7.57,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Regular",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Regular"
+    },
+    {
+     "id": "t4",
+     "text": "VELDY",
+     "kind": "art",
+     "box": [
+      28.658,
+      159.645,
+      9.352,
+      1.869
+     ],
+     "lines": [
+      {
+       "x": 28.681,
+       "baseline": 161.509,
+       "right": 28.681,
+       "text": "VELDY"
+      }
+     ],
+     "lineStep": null,
+     "size": 7.57,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold"
+    },
+    {
+     "id": "t5",
+     "text": "JUNISH COSMETIC CLINIC",
+     "kind": "art",
+     "box": [
+      28.64,
+      145.337,
+      36.068,
+      1.933
+     ],
+     "lines": [
+      {
+       "x": 28.681,
+       "baseline": 147.233,
+       "right": 28.681,
+       "text": "JUNISH COSMETIC CLINIC"
+      }
+     ],
+     "lineStep": null,
+     "size": 7.57,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label",
+     "slot": "{{kv.nameUpper}}",
+     "maxWidth": 120
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-1.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "Junish\nCosmetic\nClinic",
+     "kind": "art",
+     "box": [
+      37.042,
+      112.934,
+      20.784,
+      14.197
+     ],
+     "lines": [
+      {
+       "x": 39.888,
+       "baseline": 115.678,
+       "right": 39.888,
+       "text": "JUNISH"
+      },
+      {
+       "x": 36.933,
+       "baseline": 121.386,
+       "right": 36.933,
+       "text": "COSMETIC"
+      },
+      {
+       "x": 40.677,
+       "baseline": 127.095,
+       "right": 40.677,
+       "text": "CLINIC"
+      }
+     ],
+     "lineStep": 5.708,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "AllCaps",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{kv.nameLines}}",
+     "wrap": true,
+     "wrapBox": [
+      29.45,
+      36
+     ],
+     "maxLines": 4,
+     "vmid": 121.386
+    },
+    {
+     "id": "t1",
+     "text": "필러・보톡스・스킨케어",
+     "kind": "art",
+     "box": [
+      164.971,
+      118.201,
+      33.858,
+      3.52
+     ],
+     "lines": [
+      {
+       "x": 161.974,
+       "baseline": 121.409,
+       "right": 161.974,
+       "text": "필러・보톡스・스킨케어"
+      }
+     ],
+     "lineStep": 5.709,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{kv.flow.1}}",
+     "latinChars": "[A-Za-z·]",
+     "wrap": true,
+     "wrapBox": [
+      163.95,
+      36
+     ],
+     "maxLines": 4,
+     "vmid": 121.409
+    },
+    {
+     "id": "t2",
+     "text": "코스메틱 클리닉",
+     "kind": "art",
+     "box": [
+      236.475,
+      118.201,
+      25.29,
+      3.52
+     ],
+     "lines": [
+      {
+       "x": 236.273,
+       "baseline": 121.409,
+       "right": 236.273,
+       "text": "코스메틱 클리닉"
+      }
+     ],
+     "lineStep": 5.709,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{kv.flow.2}}",
+     "wrap": true,
+     "wrapBox": [
+      231.15,
+      36
+     ],
+     "maxLines": 4,
+     "vmid": 121.409
+    },
+    {
+     "id": "t3",
+     "text": "호주 + 한국\n의료 안전 및 전문 지식\n(중환자실 7년 +\n심장시술실 3년 등)",
+     "runs": [
+      {
+       "t": "호주 + 한국\n의료 안전 및 전문 지식",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 66.146,
+       "color": "#453C33"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Light",
+       "size": 66.146,
+       "color": "#453C33"
+      },
+      {
+       "t": "(중환자실 7년 +",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 60.133,
+       "color": "#453C33"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 60.133,
+       "color": "#453C33"
+      },
+      {
+       "t": "심장시술실 3년 등)",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 60.133,
+       "color": "#453C33"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      97.133,
+      109.903,
+      35.096,
+      20.114
+     ],
+     "lines": [
+      {
+       "x": 105.651,
+       "baseline": 113.109,
+       "right": 105.651,
+       "text": "호주 + 한국"
+      },
+      {
+       "x": 96.917,
+       "baseline": 118.818,
+       "right": 96.917,
+       "text": "의료 안전 및 전문 지식"
+      },
+      {
+       "x": 103.219,
+       "baseline": 124.879,
+       "right": 103.219,
+       "text": "(중환자실 7년 +"
+      },
+      {
+       "x": 100.946,
+       "baseline": 129.529,
+       "right": 100.946,
+       "text": "심장시술실 3년 등)"
+      }
+     ],
+     "lineStep": 5.709,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{kv.flow.0}}",
+     "paraStyles": [
+      {},
+      {},
+      {
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 10,
+       "step": 4.65,
+       "stepBefore": 6.061
+      }
+     ],
+     "wrap": true,
+     "wrapBox": [
+      96.75,
+      36
+     ],
+     "maxLines": 4,
+     "vmid": 121.319
+    },
+    {
+     "id": "t4",
+     "text": "JUNISH COSMETIC CLINIC",
+     "kind": "art",
+     "box": [
+      28.579,
+      29.357,
+      51.882,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "JUNISH COSMETIC CLINIC"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label",
+     "slot": "{{kv.nameUpper}}",
+     "maxWidth": 60
+    },
+    {
+     "id": "t5",
+     "text": "Junish Cosmetic Clinic은 진정한 아름다움과 자신감을 되찾는 필러와 보톡스 시술, 스킨케어 전문 클리닉입니다. ",
+     "runs": [
+      {
+       "t": "Junish Cosmetic Clinic",
+       "font": "Montserrat-Regular",
+       "size": 139.722,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "은 진정한 아름다움과 자신감을 되찾는 필러와 보톡스 시술, 스킨케어 전문 클리닉입니다. ",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 139.722,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      94.05,
+      29.36,
+      165.703,
+      3.186
+     ],
+     "lines": [
+      {
+       "x": 94.061,
+       "baseline": 32.276,
+       "right": 133.821,
+       "text": "Junish Cosmetic Clinic 은 진정한 아름다움과 자신감을 되찾는 필러와 보톡스 시술, 스킨케어 전문 클리닉입니다."
+      }
+     ],
+     "lineStep": 5.645,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.intro}}",
+     "wrap": true,
+     "wrapBox": [
+      94.061,
+      174.339
+     ],
+     "maxLines": 2
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-2.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "전문 의료인의 손끝으로 깨어나는 아름다움",
+     "kind": "art",
+     "box": [
+      117.907,
+      177.296,
+      61.186,
+      3.175
+     ],
+     "lines": [
+      {
+       "x": 117.705,
+       "baseline": 180.196,
+       "right": 117.705,
+       "text": "전문 의료인의 손끝으로 깨어나는 아름다움"
+      }
+     ],
+     "lineStep": 5.574,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{philosophyPair.result}}",
+     "wrap": true,
+     "wrapBox": [
+      48.5,
+      200
+     ],
+     "maxLines": 2
+    },
+    {
+     "id": "t1",
+     "text": "PHILOSOPHY",
+     "kind": "art",
+     "box": [
+      28.96,
+      29.357,
+      26.559,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "PHILOSOPHY"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label"
+    },
+    {
+     "id": "t2",
+     "text": "11년간의 간호 임상 경력과 노하우를 기반하여 고민별 및 증상별 진단에 따른 안전하고 섬세한 시술을 진행합니다. ",
+     "kind": "art",
+     "box": [
+      78.645,
+      29.146,
+      159.025,
+      3.203
+     ],
+     "lines": [
+      {
+       "x": 78.247,
+       "baseline": 32.08,
+       "right": 78.247,
+       "text": "11년간의 간호 임상 경력과 노하우를 기반하여 고민별 및 증상별 진단에 따른 안전하고 섬세한 시술을 진행합니다."
+      }
+     ],
+     "lineStep": 5.645,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": -0.011,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.philosophy}}",
+     "wrap": true,
+     "wrapBox": [
+      78.247,
+      190.153
+     ],
+     "maxLines": 2
+    },
+    {
+     "id": "t3",
+     "text": "안전하고 섬세한 시술",
+     "kind": "art",
+     "box": [
+      184.587,
+      94.165,
+      38.495,
+      4.03
+     ],
+     "lines": [
+      {
+       "x": 184.304,
+       "baseline": 97.841,
+       "right": 184.304,
+       "text": "안전하고 섬세한 시술"
+      }
+     ],
+     "lineStep": 6.544,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{philosophyPair.right}}",
+     "wrap": true,
+     "wrapBox": [
+      177.8,
+      52
+     ],
+     "maxLines": 3,
+     "vmid": 97.841
+    },
+    {
+     "id": "t4",
+     "text": "11년 간호 임상\n경력과 노하우",
+     "kind": "art",
+     "box": [
+      79.589,
+      90.884,
+      27.308,
+      10.574
+     ],
+     "lines": [
+      {
+       "x": 79.155,
+       "baseline": 94.56,
+       "right": 79.155,
+       "text": "11년 간호 임상"
+      },
+      {
+       "x": 80.276,
+       "baseline": 101.104,
+       "right": 80.276,
+       "text": "경력과 노하우"
+      }
+     ],
+     "lineStep": 6.544,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{philosophyPair.left}}",
+     "wrap": true,
+     "wrapBox": [
+      67.1,
+      52
+     ],
+     "maxLines": 3,
+     "vmid": 97.832
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-3.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "Reliability",
+     "kind": "art",
+     "box": [
+      224.636,
+      92.547,
+      21.854,
+      4.257
+     ],
+     "lines": [
+      {
+       "x": 224.23,
+       "baseline": 95.911,
+       "right": 224.23,
+       "text": "Reliability"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{coreValues.2.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t1",
+     "text": "신뢰도",
+     "kind": "art",
+     "box": [
+      230.665,
+      99.282,
+      9.331,
+      3.175
+     ],
+     "lines": [
+      {
+       "x": 230.438,
+       "baseline": 102.186,
+       "right": 230.438,
+       "text": "신뢰도"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{coreValues.2.ko}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t2",
+     "text": "· 정품 / 정량 사용\n· 호주간호협회 정식 등록 간호사\n(AHPRA Registered Nurse)\n· 의사의 의료적 원격 관리 / 감독 하 시술",
+     "runs": [
+      {
+       "t": "· ",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 77.405,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "정품 / 정량 사용\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 77.405,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": " 호주간호협회 정식 등록 간호사\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "(AHPRA Registered Nurse)",
+       "font": "Montserrat-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 77.405,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": " 의사의 의료적 원격 관리 / 감독 하 시술",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      206.927,
+      160.288,
+      57.393,
+      20.151
+     ],
+     "lines": [
+      {
+       "x": 222.25,
+       "baseline": 169.028,
+       "right": 225.137,
+       "text": "· 정품 / 정량 사용"
+      }
+     ],
+     "lineStep": 5.574,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{coreValues.2.desc}}",
+     "bottomMax": 180.2,
+     "bottomStep": 5.771,
+     "wrap": true,
+     "wrapBox": [
+      204.2,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t3",
+     "text": "Natural Beauty",
+     "kind": "art",
+     "box": [
+      45.136,
+      92.614,
+      33.589,
+      4.19
+     ],
+     "lines": [
+      {
+       "x": 44.723,
+       "baseline": 95.911,
+       "right": 44.723,
+       "text": "Natural Beauty"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{coreValues.0.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t4",
+     "text": "Professionalism",
+     "kind": "art",
+     "box": [
+      130.967,
+      92.547,
+      35.003,
+      3.394
+     ],
+     "lines": [
+      {
+       "x": 130.496,
+       "baseline": 95.911,
+       "right": 130.496,
+       "text": "Professionalism"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{coreValues.1.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t5",
+     "text": "개인의 개성을 살리는\n  아름다움 ",
+     "kind": "art",
+     "box": [
+      46.524,
+      166.127,
+      30.409,
+      8.759
+     ],
+     "lines": [
+      {
+       "x": 46.336,
+       "baseline": 169.028,
+       "right": 46.336,
+       "text": "개인의 개성을 살리는"
+      }
+     ],
+     "lineStep": 5.574,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{coreValues.0.desc}}",
+     "bottomMax": 180.2,
+     "bottomStep": 5.771,
+     "wrap": true,
+     "wrapBox": [
+      30.6,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t6",
+     "text": "· 11년 간호 임상 경력\n· MedTech 회사 지원\n(미국, 호주, 뉴질랜드 등 활동) ",
+     "runs": [
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 77.405,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": " 11년 간호 임상 경력\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 77.405,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": " ",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "MedTech ",
+       "font": "Montserrat-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "회사 지원\n",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "(미국, 호주, 뉴질랜드 등 활동)",
+       "font": "SpoqaHanSansNeo-Light",
+       "size": 63.331,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": " ",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 70.368,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      130.228,
+      166.134,
+      37.497,
+      14.47
+     ],
+     "lines": [
+      {
+       "x": 132.92,
+       "baseline": 169.028,
+       "right": 135.728,
+       "text": "· 11년 간호 임상 경력"
+      }
+     ],
+     "lineStep": 5.574,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{coreValues.1.desc}}",
+     "bottomMax": 180.2,
+     "bottomStep": 5.771,
+     "wrap": true,
+     "wrapBox": [
+      117.3,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t7",
+     "text": "자연美",
+     "kind": "art",
+     "box": [
+      57.044,
+      99.289,
+      9.257,
+      3.161
+     ],
+     "lines": [
+      {
+       "x": 56.67,
+       "baseline": 102.186,
+       "right": 56.67,
+       "text": "자연美"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{coreValues.0.ko}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t8",
+     "text": "전문성",
+     "kind": "art",
+     "box": [
+      143.743,
+      99.289,
+      9.095,
+      3.157
+     ],
+     "lines": [
+      {
+       "x": 143.54,
+       "baseline": 102.186,
+       "right": 143.54,
+       "text": "전문성"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{coreValues.1.ko}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t9",
+     "text": "CORE VALUE",
+     "kind": "art",
+     "box": [
+      28.79,
+      29.356,
+      25.714,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "CORE VALUE"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label"
+    },
+    {
+     "id": "t10",
+     "text": "손끝으로 깨우는 진정한 아름다움",
+     "kind": "art",
+     "box": [
+      94.266,
+      29.217,
+      51.487,
+      3.493
+     ],
+     "lines": [
+      {
+       "x": 94.061,
+       "baseline": 32.414,
+       "right": 94.061,
+       "text": "손끝으로 깨우는 진정한 아름다움"
+      }
+     ],
+     "lineStep": 6.209,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": -0.011,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.coreLine}}",
+     "wrap": true,
+     "wrapBox": [
+      94.061,
+      174.339
+     ],
+     "maxLines": 2
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-4.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "피부를 재생시키는\n근본 치료",
+     "kind": "art",
+     "box": [
+      222.124,
+      166.127,
+      26.374,
+      8.749
+     ],
+     "lines": [
+      {
+       "x": 221.93,
+       "baseline": 169.028,
+       "right": 221.93,
+       "text": "피부를 재생시키는"
+      }
+     ],
+     "lineStep": 5.584,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{services.2.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      204.2,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t1",
+     "text": "FILLER",
+     "kind": "art",
+     "box": [
+      54.216,
+      96.007,
+      15.3,
+      3.112
+     ],
+     "lines": [
+      {
+       "x": 53.796,
+       "baseline": 99.115,
+       "right": 53.796,
+       "text": "FILLER"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.6,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-SemiBold",
+     "tracking": 0.004,
+     "color": "#373330",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "inkDark",
+     "slot": "{{services.0.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t2",
+     "text": "BOTOX",
+     "kind": "art",
+     "box": [
+      140.842,
+      95.963,
+      16.042,
+      3.2
+     ],
+     "lines": [
+      {
+       "x": 140.419,
+       "baseline": 99.115,
+       "right": 140.419,
+       "text": "BOTOX"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.6,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-SemiBold",
+     "tracking": 0.004,
+     "color": "#373330",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "inkDark",
+     "slot": "{{services.1.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t3",
+     "text": "SKIN CARE",
+     "kind": "art",
+     "box": [
+      222.815,
+      96.166,
+      24.763,
+      3.2
+     ],
+     "lines": [
+      {
+       "x": 222.671,
+       "baseline": 99.319,
+       "right": 222.671,
+       "text": "SKIN CARE"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.6,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-SemiBold",
+     "tracking": 0.004,
+     "color": "#373330",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "inkDark",
+     "slot": "{{services.2.en}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t4",
+     "text": "볼륨을 채우는 \n입체적 디자인",
+     "kind": "art",
+     "box": [
+      51.784,
+      166.131,
+      19.886,
+      8.756
+     ],
+     "lines": [
+      {
+       "x": 51.599,
+       "baseline": 169.028,
+       "right": 51.599,
+       "text": "볼륨을 채우는"
+      }
+     ],
+     "lineStep": 5.584,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{services.0.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      30.6,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t5",
+     "text": "주름 개선 및\n자연스러운 얼굴 윤곽",
+     "kind": "art",
+     "box": [
+      133.21,
+      166.131,
+      30.512,
+      8.752
+     ],
+     "lines": [
+      {
+       "x": 139.563,
+       "baseline": 169.028,
+       "right": 139.563,
+       "text": "주름 개선 및"
+      }
+     ],
+     "lineStep": 5.584,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{services.1.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      117.3,
+      62
+     ],
+     "maxLines": 4
+    },
+    {
+     "id": "t6",
+     "text": "MEDICAL SOLUTION",
+     "kind": "art",
+     "box": [
+      28.959,
+      29.357,
+      40.093,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "MEDICAL SOLUTION"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label",
+     "slot": "{{kv.solutionLabel}}",
+     "maxWidth": 58
+    },
+    {
+     "id": "t7",
+     "text": "부위별 및 개인별 특징을 고려하여 섬세하고 이상적인 시술을 통해 차별화된 아름다움을 선사합니다. ",
+     "kind": "art",
+     "box": [
+      90.741,
+      28.938,
+      140.028,
+      3.207
+     ],
+     "lines": [
+      {
+       "x": 90.555,
+       "baseline": 31.872,
+       "right": 90.555,
+       "text": "부위별 및 개인별 특징을 고려하여 섬세하고 이상적인 시술을 통해 차별화된 아름다움을 선사합니다."
+      }
+     ],
+     "lineStep": 5.645,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": -0.011,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.solutionLine}}",
+     "wrap": true,
+     "wrapBox": [
+      90.555,
+      177.845
+     ],
+     "maxLines": 2
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-5.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "Foreigner",
+     "kind": "art",
+     "box": [
+      227.128,
+      166.416,
+      16.641,
+      3.32
+     ],
+     "lines": [
+      {
+       "x": 226.715,
+       "baseline": 169.028,
+       "right": 226.715,
+       "text": "Foreigner"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Regular",
+     "slot": "{{targets.2.label}}",
+     "maxWidth": 62
+    },
+    {
+     "id": "t1",
+     "text": "2030",
+     "kind": "art",
+     "box": [
+      57.485,
+      166.543,
+      8.378,
+      2.512
+     ],
+     "lines": [
+      {
+       "x": 57.42,
+       "baseline": 169.028,
+       "right": 57.42,
+       "text": "2030"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Regular",
+     "slot": "{{targets.0.label}}",
+     "maxWidth": 62
+    },
+    {
+     "id": "t2",
+     "text": "4050",
+     "kind": "art",
+     "box": [
+      144.113,
+      166.543,
+      8.678,
+      2.512
+     ],
+     "lines": [
+      {
+       "x": 143.967,
+       "baseline": 169.028,
+       "right": 143.967,
+       "text": "4050"
+      }
+     ],
+     "lineStep": null,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Regular",
+     "slot": "{{targets.1.label}}",
+     "maxWidth": 62
+    },
+    {
+     "id": "t3",
+     "text": "TARGET",
+     "kind": "art",
+     "box": [
+      28.656,
+      29.357,
+      15.888,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "TARGET"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label"
+    },
+    {
+     "id": "t4",
+     "text": "링클 케어, 안티에이징 시술, 컨투어링 및 리프팅 교정, K-Beauty의 선도까지, 모든 세대를 위한 맞춤형 뷰티 클리닉",
+     "runs": [
+      {
+       "t": "링클 케어, 안티에이징 시술, 컨투어링 및 리프팅 교정, ",
+       "font": "SpoqaHanSansNeo-Light",
+       "size": 139.722,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "K-Beauty",
+       "font": "Montserrat-Light",
+       "size": 139.722,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "의 선도까지, 모든 세대를 위한 맞춤형 뷰티 클리닉",
+       "font": "SpoqaHanSansNeo-Light",
+       "size": 139.722,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      81.936,
+      28.863,
+      160.002,
+      3.619
+     ],
+     "lines": [
+      {
+       "x": 81.581,
+       "baseline": 31.784,
+       "right": 172.361,
+       "text": "링클 케어, 안티에이징 시술, 컨투어링 및 리프팅 교정, K-Beauty 의 선도까지, 모든 세대를 위한 맞춤형 뷰티 클리닉"
+      }
+     ],
+     "lineStep": 5.645,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Light",
+     "tracking": -0.011,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Light",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.targetLine}}",
+     "wrap": true,
+     "wrapBox": [
+      81.581,
+      186.819
+     ],
+     "maxLines": 2
+    },
+    {
+     "id": "t5",
+     "text": "K-Beauty",
+     "kind": "art",
+     "box": [
+      225.034,
+      95.484,
+      20.395,
+      4.003
+     ],
+     "lines": [
+      {
+       "x": 224.622,
+       "baseline": 98.594,
+       "right": 224.622,
+       "text": "K-Beauty"
+      }
+     ],
+     "lineStep": 6.474,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Medium",
+     "colorRole": "bg",
+     "slot": "{{targets.2.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      210.2,
+      50
+     ],
+     "maxLines": 4,
+     "vmid": 98.594
+    },
+    {
+     "id": "t6",
+     "text": "· 입술, 볼 필러",
+     "runs": [
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 57.705,
+       "color": "#2C1D0E"
+      },
+      {
+       "t": " 입술, 볼 필러",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 66.146,
+       "color": "#453C33"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      49.312,
+      92.189,
+      25.215,
+      4.043
+     ],
+     "lines": [
+      {
+       "x": 48.496,
+       "baseline": 95.869,
+       "right": 51.528,
+       "text": "· 입술, 볼 필러"
+      }
+     ],
+     "lineStep": 6.474,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{targets.0.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      36.6,
+      50
+     ],
+     "maxLines": 4,
+     "vmid": 99.106
+    },
+    {
+     "id": "t7",
+     "text": "· 턱 슬리밍 보톡스",
+     "runs": [
+      {
+       "t": "·",
+       "font": "SpoqaHanSansNeo-Regular",
+       "size": 57.705,
+       "color": "#2C1D0E"
+      },
+      {
+       "t": " 턱 슬리밍 보톡스",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 66.146,
+       "color": "#453C33"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      45.519,
+      98.663,
+      32.772,
+      4.035
+     ],
+     "lines": [
+      {
+       "x": 44.703,
+       "baseline": 102.343,
+       "right": 47.735,
+       "text": "· 턱 슬리밍 보톡스"
+      }
+     ],
+     "lineStep": null,
+     "size": 11,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Regular",
+     "tracking": 0,
+     "color": "#2C1D0E",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Regular",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "skip": true
+    },
+    {
+     "id": "t8",
+     "text": "주름 개선을 위한",
+     "kind": "art",
+     "box": [
+      133.298,
+      92.194,
+      30.395,
+      4.026
+     ],
+     "lines": [
+      {
+       "x": 133.066,
+       "baseline": 95.869,
+       "right": 133.066,
+       "text": "주름 개선을 위한"
+      }
+     ],
+     "lineStep": 6.474,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "slot": "{{targets.1.desc}}",
+     "wrap": true,
+     "wrapBox": [
+      123.3,
+      50
+     ],
+     "maxLines": 4,
+     "vmid": 99.106
+    },
+    {
+     "id": "t9",
+     "text": "보톡스",
+     "kind": "art",
+     "box": [
+      142.363,
+      98.775,
+      11.859,
+      3.914
+     ],
+     "lines": [
+      {
+       "x": 142.131,
+       "baseline": 102.343,
+       "right": 142.131,
+       "text": "보톡스"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.609,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#453C33",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "bg",
+     "skip": true
+    }
+   ]
+  },
+  {
+   "bg": {
+    "svg": "B-bg-6.svg",
+    "colors": {
+     "rgb(69,60,51)": "bg",
+     "rgb(236,233,226)": "n1",
+     "rgb(215,208,198)": "n2",
+     "rgb(188,174,165)": "label",
+     "rgb(44,29,14)": "deep",
+     "rgb(65,64,66)": "deep"
+    }
+   },
+   "texts": [
+    {
+     "id": "t0",
+     "text": "전문 의료인의 정교한 손길로 본연의 아름다움을 깨워 자신감을 채우는 코스메틱 클리닉입니다.",
+     "kind": "art",
+     "box": [
+      102.56,
+      29.389,
+      134.535,
+      3.14
+     ],
+     "lines": [
+      {
+       "x": 102.326,
+       "baseline": 32.276,
+       "right": 102.326,
+       "text": "전문 의료인의 정교한 손길로 본연의 아름다움을 깨워 자신감을 채우는 코스메틱 클리닉입니다."
+      }
+     ],
+     "lineStep": 5.645,
+     "size": 10,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Light",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "latinFont": "Montserrat-Light",
+     "fallbackFont": "Pretendard-Regular",
+     "slot": "{{kv.definition}}",
+     "wrap": true,
+     "wrapBox": [
+      102.326,
+      166.074
+     ],
+     "maxLines": 2
+    },
+    {
+     "id": "t1",
+     "text": "Genuine Beauty\n본연의 아름다움을 깨워",
+     "runs": [
+      {
+       "t": "Genuine Beauty",
+       "font": "Montserrat-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "본연의 아름다움을 깨워",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      124.791,
+      173.777,
+      47.048,
+      13.649
+     ],
+     "lines": [
+      {
+       "x": 128.231,
+       "baseline": 177.509,
+       "right": 128.231,
+       "text": "Genuine Beauty"
+      },
+      {
+       "x": 124.544,
+       "baseline": 187.034,
+       "right": 124.544,
+       "text": "본연의 아름다움을 깨워"
+      }
+     ],
+     "lineStep": 9.525,
+     "size": 13.999,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "label",
+     "slot": "{{kv.kw.1.en}}\n{{kv.kw.1.ko}}",
+     "maxWidth": 90,
+     "anchorX": 148.5,
+     "lineStyles": [
+      {
+       "font": "Montserrat-Medium",
+       "colorRole": "label"
+      },
+      {
+       "font": "SpoqaHanSansNeo-Medium",
+       "color": "#FFFFFF"
+      }
+     ]
+    },
+    {
+     "id": "t2",
+     "text": "Enhance Confidence\n자신감을 채우는 클리닉",
+     "runs": [
+      {
+       "t": "Enhance Confidence",
+       "font": "Montserrat-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "자신감을 채우는 클리닉",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      221.665,
+      173.908,
+      51.715,
+      13.518
+     ],
+     "lines": [
+      {
+       "x": 221.163,
+       "baseline": 177.603,
+       "right": 221.163,
+       "text": "Enhance Conﬁdence"
+      },
+      {
+       "x": 223.425,
+       "baseline": 187.033,
+       "right": 223.425,
+       "text": "자신감을 채우는 클리닉"
+      }
+     ],
+     "lineStep": 9.43,
+     "size": 13.86,
+     "stretch": 1.01,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "label",
+     "slot": "{{kv.kw.2.en}}\n{{kv.kw.2.ko}}",
+     "maxWidth": 90,
+     "anchorX": 247.5,
+     "lineStyles": [
+      {
+       "font": "Montserrat-Medium",
+       "colorRole": "label"
+      },
+      {
+       "font": "SpoqaHanSansNeo-Medium",
+       "color": "#FFFFFF"
+      }
+     ]
+    },
+    {
+     "id": "t3",
+     "text": "Delicate Touch\n정교한 손길로",
+     "runs": [
+      {
+       "t": "Delicate Touch",
+       "font": "Montserrat-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "\n",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#BCAEA5"
+      },
+      {
+       "t": "정교한 손길로",
+       "font": "SpoqaHanSansNeo-Medium",
+       "size": 84.186,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      31.293,
+      173.777,
+      36.503,
+      13.649
+     ],
+     "lines": [
+      {
+       "x": 30.773,
+       "baseline": 177.509,
+       "right": 30.773,
+       "text": "Delicate Touch"
+      },
+      {
+       "x": 35.255,
+       "baseline": 187.034,
+       "right": 35.255,
+       "text": "정교한 손길로"
+      }
+     ],
+     "lineStep": 9.525,
+     "size": 13.999,
+     "stretch": 1,
+     "rot": 0,
+     "font": "SpoqaHanSansNeo-Medium",
+     "tracking": 0.004,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "latinFont": "Montserrat-Medium",
+     "fallbackFont": "Pretendard-Regular",
+     "colorRole": "label",
+     "slot": "{{kv.kw.0.en}}\n{{kv.kw.0.ko}}",
+     "maxWidth": 90,
+     "anchorX": 49.5,
+     "lineStyles": [
+      {
+       "font": "Montserrat-Medium",
+       "colorRole": "label"
+      },
+      {
+       "font": "SpoqaHanSansNeo-Medium",
+       "color": "#FFFFFF"
+      }
+     ]
+    },
+    {
+     "id": "t4",
+     "text": "BRAND DEFINITION",
+     "kind": "art",
+     "box": [
+      28.96,
+      29.357,
+      39.24,
+      2.781
+     ],
+     "lines": [
+      {
+       "x": 28.64,
+       "baseline": 32.091,
+       "right": 28.64,
+       "text": "BRAND DEFINITION"
+      }
+     ],
+     "lineStep": null,
+     "size": 10.889,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Montserrat-Bold",
+     "tracking": 0,
+     "color": "#BCAEA5",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fallbackFont": "SpoqaHanSansNeo-Bold",
+     "colorRole": "label"
+    }
+   ],
+   "photos": [
+    {
+     "slot": "photo1",
+     "box": [
+      0,
+      0,
+      99,
+      210
+     ],
+     "fallback": "n3"
+    },
+    {
+     "slot": "photo2",
+     "box": [
+      99,
+      0,
+      99,
+      210
+     ],
+     "fallback": "n2"
+    },
+    {
+     "slot": "photo3",
+     "box": [
+      198,
+      0,
+      99,
+      210
+     ],
+     "fallback": "label"
+    }
+   ],
+   "grads": [
+    {
+     "x": 0,
+     "y": 79.781,
+     "w": 297,
+     "h": 152.4,
+     "from": [
+      0,
+      121.006
+     ],
+     "to": [
+      0,
+      231.572
+     ],
+     "stops": [
+      [
+       0,
+       0
+      ],
+      [
+       1,
+       1
+      ]
+     ],
+     "colorRole": "deep"
+    },
+    {
+     "x": 99,
+     "y": 0.471,
+     "w": 99.001,
+     "h": 209.999,
+     "from": [
+      0,
+      105.469
+     ],
+     "to": [
+      0,
+      210.473
+     ],
+     "stops": [
+      [
+       0,
+       0
+      ],
+      [
+       0.57,
+       0.69
+      ],
+      [
+       1,
+       1
+      ]
+     ],
+     "colorRole": "deep"
+    },
+    {
+     "x": 0,
+     "y": 0.471,
+     "w": 99.001,
+     "h": 209.999,
+     "from": [
+      0,
+      105.469
+     ],
+     "to": [
+      0,
+      210.473
+     ],
+     "stops": [
+      [
+       0,
+       0
+      ],
+      [
+       0.57,
+       0.69
+      ],
+      [
+       1,
+       1
+      ]
+     ],
+     "colorRole": "deep"
+    },
+    {
+     "x": 231.191,
+     "y": 0,
+     "w": 65.811,
+     "h": 210,
+     "from": [
+      250.441,
+      0
+     ],
+     "to": [
+      297,
+      0
+     ],
+     "stops": [
+      [
+       0,
+       0
+      ],
+      [
+       1,
+       0.3
+      ]
+     ],
+     "colorRole": "deep"
+    },
+    {
+     "x": 0,
+     "y": 0,
+     "w": 297,
+     "h": 129.303,
+     "from": [
+      0,
+      0.516
+     ],
+     "to": [
+      0,
+      129.303
+     ],
+     "stops": [
+      [
+       0,
+       1
+      ],
+      [
+       0.45,
+       0.71
+      ],
+      [
+       1,
+       0
+      ]
+     ],
+     "colorRole": "deep"
+    }
+   ]
+  }
+ ]
+}

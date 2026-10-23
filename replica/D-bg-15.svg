@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 12000 6750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-81000,-7593.749934)">
+        <g id="Page-15" serif:id="Page 15" transform="matrix(8.333333,0,0,8.333333,81000,7593.749934)">
+            <rect x="0" y="0" width="1440" height="810" style="fill:none;"/>
+            <g transform="matrix(0.75,0,0,-0.75,0,809.999986)">
+                <rect x="0" y="0" width="1920" height="1080"/>
+            </g>
+            <g transform="matrix(0.653694,0,0,0.637707,509.816477,77.21881)">
+                <rect x="0" y="0" width="1422.78" height="1028"/>
+            </g>
+            <g transform="matrix(1,0,0,1,44.88,37.449914)">
+                <g transform="matrix(1,0,0,1,0,-132.866384)">
+                    <g transform="matrix(1.42134,0,0,-0.75,107.067399,649.231625)">
+                        <path d="M0,2L222.54,2" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:2.64px;"/>
+                    </g>
+                    <g transform="matrix(0.75,0,0,-0.75,256.467399,649.231625)">
+                        <path d="M214.54,8L222.54,2L214.54,-4" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:4px;stroke-linecap:round;stroke-linejoin:round;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

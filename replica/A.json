@@ -1,0 +1,1750 @@
+{
+ "id": "onepager",
+ "source": "Haetsalgol Manggae Tteok logo manual.af / ORIGIN",
+ "page": {
+  "w": 210,
+  "h": 297
+ },
+ "pages": [
+  {
+   "bg": {
+    "svg": "A-bg.svg",
+    "colors": {
+     "rgb(39,64,3)": "bg",
+     "rgb(52,88,0)": "c1",
+     "rgb(255,181,0)": "c2",
+     "rgb(221,84,16)": "c3"
+    }
+   },
+   "logos": [
+    {
+     "name": "logo-type",
+     "box": [
+      14.208,
+      86.424,
+      76.056,
+      19.848
+     ],
+     "variant": "auto-dark",
+     "align": "left"
+    },
+    {
+     "name": "app-card",
+     "box": [
+      119.112,
+      88.08,
+      30.696,
+      16.56
+     ],
+     "variant": "auto-light"
+    },
+    {
+     "name": "app-badge",
+     "box": [
+      171.576,
+      87.888,
+      18.408,
+      16.92
+     ],
+     "variant": "auto-light",
+     "use": "symbol"
+    },
+    {
+     "name": "emblem",
+     "box": [
+      160.416,
+      13.56,
+      41.424,
+      41.424
+     ],
+     "variant": "faint",
+     "use": "symbol"
+    }
+   ],
+   "texts": [
+    {
+     "id": "t0",
+     "text": "햇살골망개떡은 한 잎에 감싼 깊은 정성을 가장 소중하게 생각합니다. 자연이 내어준 망개잎으로 정성껏 감싸고, 엄선한 재료와 섬세한 손길로 전통의 깊은 맛을 빚어냅니다. 익숙한 우리 떡의 정취는 그대로 간직하면서도, 특별한 날의 선물로 손색없는 품격과 정갈함을 더했습니다. 소중한 분께 마음을 전하는 순간부터 일상 속 따뜻한 다과까지, 누구나 기분 좋게 즐길 수 있는 프리미엄 전통 디저트. 좋은 재료와 바른 정성으로 오래 기억되는 맛을 전하고, 다시 찾고 싶은 떡집이 되는 것이 햇살골망개떡의 기준입니다. 한 입마다 깊은 풍미와 따뜻한 마음이 온전히 전해질 수 있도록 맛과 품질, 정성 어느 하나도 놓치지 않겠습니다.",
+     "kind": "frame",
+     "box": [
+      13.936,
+      157.194,
+      81.476,
+      36.491
+     ],
+     "lines": [
+      {
+       "x": 13.932,
+       "baseline": 159.294,
+       "right": 84.101,
+       "text": "햇살골망개떡은 한 잎에 감싼 깊은 정성을 가장 소중하게"
+      },
+      {
+       "x": 13.932,
+       "baseline": 163.526,
+       "right": 86.922,
+       "text": "생각합니다 . 자연이 내어준 망개잎으로 정성껏 감싸고 , 엄선한"
+      },
+      {
+       "x": 13.932,
+       "baseline": 167.758,
+       "right": 89.744,
+       "text": "재료와 섬세한 손길로 전통의 깊은 맛을 빚어냅니다 . 익숙한 우리"
+      },
+      {
+       "x": 13.932,
+       "baseline": 171.99,
+       "right": 84.101,
+       "text": "떡의 정취는 그대로 간직하면서도 , 특별한 날의 선물로 손색없는"
+      },
+      {
+       "x": 13.932,
+       "baseline": 176.222,
+       "right": 84.101,
+       "text": "품격과 정갈함을 더했습니다 . 소중한 분께 마음을 전하는 순간부터"
+      },
+      {
+       "x": 13.932,
+       "baseline": 180.454,
+       "right": 84.101,
+       "text": "일상 속 따뜻한 다과까지 , 누구나 기분 좋게 즐길 수 있는 프리미엄"
+      },
+      {
+       "x": 13.932,
+       "baseline": 184.687,
+       "right": 89.744,
+       "text": "전통 디저트 . 좋은 재료와 바른 정성으로 오래 기억되는 맛을"
+      },
+      {
+       "x": 13.932,
+       "baseline": 188.919,
+       "right": 75.636,
+       "text": "전하고 , 다시 찾고 싶은 떡집이 되는 것이 햇살골망개떡의"
+      },
+      {
+       "x": 13.932,
+       "baseline": 193.151,
+       "right": 86.922,
+       "text": "기준입니다 . 한 입마다 깊은 풍미와 따뜻한 마음이 온전히 전해질"
+      }
+     ],
+     "lineStep": 4.232,
+     "size": 7.998,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Inter-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "JustifyLeft",
+     "caps": "None",
+     "slot": "{{story.brandStory}}",
+     "fallbackFont": "Pretendard-Regular",
+     "fallbackTracking": -0.007
+    },
+    {
+     "id": "t1",
+     "text": "ㄱㄴㄷㄹㅁㅂㅅ\nㅇㅈㅊㅋㅌㅍㅎ\nㅏㅑㅓㅕㅗㅛㅜ\nㅠㅡㅣㅐㅒㅔㅖ",
+     "kind": "art",
+     "box": [
+      136.086,
+      149.771,
+      27.188,
+      16.639
+     ],
+     "lines": [
+      {
+       "x": 135.918,
+       "baseline": 151.772,
+       "right": 135.918,
+       "text": "ㄱㄴㄷㄹㅁㅂㅅ"
+      },
+      {
+       "x": 135.918,
+       "baseline": 156.413,
+       "right": 135.918,
+       "text": "ㅇㅈㅊㅋㅌㅍㅎ"
+      },
+      {
+       "x": 135.918,
+       "baseline": 161.054,
+       "right": 135.918,
+       "text": "ㅏㅑㅓㅕㅗㅛㅜ"
+      },
+      {
+       "x": 135.918,
+       "baseline": 165.696,
+       "right": 135.918,
+       "text": "ㅠㅡㅣㅐㅒㅔㅖ"
+      }
+     ],
+     "lineStep": 4.641,
+     "size": 10.525,
+     "stretch": 1,
+     "rot": 0,
+     "font": "MaruBuriot-Regular",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fontRole": "headingRegular"
+    },
+    {
+     "id": "t2",
+     "text": "마루부리",
+     "kind": "art",
+     "box": [
+      105.983,
+      144.474,
+      7.942,
+      1.963
+     ],
+     "lines": [
+      {
+       "x": 105.839,
+       "baseline": 146.221,
+       "right": 105.839,
+       "text": "마루부리"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.236,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "{{fonts.heading}}",
+     "maxWidth": 28
+    },
+    {
+     "id": "t3",
+     "text": "가나다라마바사\n아자차카타파하\n아야어여오요우\n유으이애얘에예",
+     "runs": [
+      {
+       "t": "가나다라마바사\n아자차카타파하\n",
+       "font": "MaruBuriot-SemiBold",
+       "size": 272.483,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "아야어여오요우\n유으이애얘에예",
+       "font": "MaruBuriot-SemiBold",
+       "size": 272.483,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      105.966,
+      148.905,
+      27.318,
+      17.523
+     ],
+     "lines": [
+      {
+       "x": 105.835,
+       "baseline": 151.778,
+       "right": 105.835,
+       "text": "가나다라마바사"
+      },
+      {
+       "x": 105.835,
+       "baseline": 156.42,
+       "right": 105.835,
+       "text": "아자차카타파하"
+      },
+      {
+       "x": 105.835,
+       "baseline": 161.061,
+       "right": 105.835,
+       "text": "아야어여오요우"
+      },
+      {
+       "x": 105.835,
+       "baseline": 165.702,
+       "right": 105.835,
+       "text": "유으이애얘에예"
+      }
+     ],
+     "lineStep": 4.642,
+     "size": 10.525,
+     "stretch": 1,
+     "rot": 0,
+     "font": "MaruBuriot-SemiBold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "fontRole": "headingBold"
+    },
+    {
+     "id": "t4",
+     "text": "1234567890\n@#$%^&*(),.?!\nabcdefghijklmn\nopqrstuvwxyz\n",
+     "kind": "art",
+     "box": [
+      166.084,
+      149.3,
+      28.56,
+      17.267
+     ],
+     "lines": [
+      {
+       "x": 165.9,
+       "baseline": 151.609,
+       "right": 165.9,
+       "text": "1234567890"
+      },
+      {
+       "x": 165.9,
+       "baseline": 156.25,
+       "right": 165.9,
+       "text": "@#$%^&*"
+      },
+      {
+       "x": 165.9,
+       "baseline": 160.891,
+       "right": 165.9,
+       "text": "abcdefghijklmn"
+      },
+      {
+       "x": 165.9,
+       "baseline": 165.533,
+       "right": 165.9,
+       "text": "opqrstuvwxyz"
+      }
+     ],
+     "lineStep": 4.641,
+     "size": 9.897,
+     "stretch": 1,
+     "rot": 0,
+     "font": "MaruBuriot-Regular",
+     "tracking": 0.074,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "JustifyLeft",
+     "caps": "None",
+     "fontRole": "headingRegular"
+    },
+    {
+     "id": "t5",
+     "text": "ㄱㄴㄷㄹㅁㅂㅅ\nㅇㅈㅊㅋㅌㅍㅎ\nㅏㅑㅓㅕㅗㅛㅜ\nㅠㅡㅣㅐㅒㅔㅖ",
+     "kind": "art",
+     "box": [
+      136.095,
+      176.818,
+      26.562,
+      17.027
+     ],
+     "lines": [
+      {
+       "x": 135.964,
+       "baseline": 179.382,
+       "right": 135.964,
+       "text": "ㄱㄴㄷㄹㅁㅂㅅ"
+      },
+      {
+       "x": 135.964,
+       "baseline": 184.023,
+       "right": 135.964,
+       "text": "ㅇㅈㅊㅋㅌㅍㅎ"
+      },
+      {
+       "x": 135.964,
+       "baseline": 188.664,
+       "right": 135.964,
+       "text": "ㅏㅑㅓㅕㅗㅛㅜ"
+      },
+      {
+       "x": 135.964,
+       "baseline": 193.306,
+       "right": 135.964,
+       "text": "ㅠㅡㅣㅐㅒㅔㅖ"
+      }
+     ],
+     "lineStep": 4.641,
+     "size": 10.525,
+     "stretch": 1,
+     "rot": 0,
+     "font": "ChungjuKimSaeng",
+     "tracking": 0.034,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "fontRole": "body"
+    },
+    {
+     "id": "t6",
+     "text": "충주김생체",
+     "kind": "art",
+     "box": [
+      106.026,
+      172.152,
+      10.162,
+      1.978
+     ],
+     "lines": [
+      {
+       "x": 105.931,
+       "baseline": 173.89,
+       "right": 105.931,
+       "text": "충주김생체"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.236,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "{{fonts.body}}",
+     "maxWidth": 28
+    },
+    {
+     "id": "t7",
+     "text": "가나다라마바사\n아자차카타파하\n아야어여오요우\n유으이애얘에예",
+     "kind": "art",
+     "box": [
+      105.981,
+      176.257,
+      26.686,
+      17.622
+     ],
+     "lines": [
+      {
+       "x": 105.859,
+       "baseline": 179.415,
+       "right": 105.859,
+       "text": "가나다라마바사"
+      },
+      {
+       "x": 105.859,
+       "baseline": 184.056,
+       "right": 105.859,
+       "text": "아자차카타파하"
+      },
+      {
+       "x": 105.859,
+       "baseline": 188.698,
+       "right": 105.859,
+       "text": "아야어여오요우"
+      },
+      {
+       "x": 105.859,
+       "baseline": 193.339,
+       "right": 105.859,
+       "text": "유으이애얘에예"
+      }
+     ],
+     "lineStep": 4.641,
+     "size": 10.525,
+     "stretch": 1,
+     "rot": 0,
+     "font": "ChungjuKimSaeng",
+     "tracking": 0.034,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "fontRole": "body"
+    },
+    {
+     "id": "t8",
+     "text": "1234567890\n@#$%^&*(),.?!\nabcdefghijklmn\nopqrstuvwxyz\n",
+     "runs": [
+      {
+       "t": "1234567890\n@#$%^&*(),.?!\n",
+       "font": "ChungjuKimSaeng",
+       "size": 241.94,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "abcdefghijklmn\nopqrstuvwxyz\n",
+       "font": "ChungjuKimSaeng",
+       "size": 241.94,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      166.084,
+      176.209,
+      28.711,
+      17.591
+     ],
+     "lines": [
+      {
+       "x": 165.926,
+       "baseline": 178.96,
+       "right": 165.926,
+       "text": "1234567890"
+      },
+      {
+       "x": 165.926,
+       "baseline": 183.602,
+       "right": 165.926,
+       "text": "@#$%^&*(),.?!"
+      },
+      {
+       "x": 165.926,
+       "baseline": 188.243,
+       "right": 165.926,
+       "text": "abcdefghijklmn"
+      },
+      {
+       "x": 165.926,
+       "baseline": 192.884,
+       "right": 165.926,
+       "text": "opqrstuvwxyz"
+      }
+     ],
+     "lineStep": 4.642,
+     "size": 9.897,
+     "stretch": 1,
+     "rot": 0,
+     "font": "ChungjuKimSaeng",
+     "tracking": 0.034,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "JustifyLeft",
+     "caps": "None",
+     "fontRole": "body"
+    },
+    {
+     "id": "t9",
+     "text": "CORPORATE TYPOGRAPHY",
+     "kind": "art",
+     "box": [
+      14.029,
+      135.62,
+      66.826,
+      3.247
+     ],
+     "lines": [
+      {
+       "x": 13.86,
+       "baseline": 138.76,
+       "right": 13.86,
+       "text": "CORPORATE TYPOGRAPHY"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.319,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t10",
+     "text": "font\n마루부리 / 충주김생체",
+     "kind": "art",
+     "box": [
+      14.181,
+      144.474,
+      32.301,
+      6.938
+     ],
+     "lines": [
+      {
+       "x": 14.015,
+       "baseline": 146.884,
+       "right": 14.015,
+       "text": "FONT"
+      },
+      {
+       "x": 13.956,
+       "baseline": 151.116,
+       "right": 32.496,
+       "text": "마루부리 / 충주김생체"
+      }
+     ],
+     "lineStep": 4.232,
+     "size": 9.497,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "font\n{{fonts.heading}} / {{fonts.body}}",
+     "lines2": true
+    },
+    {
+     "id": "t11",
+     "text": "햇살골망개떡은 떡 한 알에 담긴 정성이 맛과 마음의 깊이를 결정한다고 믿습니다. 좋은 재료를 엄선하고 전통의 방식을 정성스럽게 지키며, 작은 과정 하나도 소홀히 하지 않겠습니다. 한결같은 맛과 품질을 위해 끊임없이 연구하고, 우리 떡의 익숙한 매력에 오늘의 감각을 더해 더욱 특별한 전통 디저트를 선보이겠습니다. 받는 분의 기쁨과 전하는 분의 마음까지 세심하게 헤아려, 모든 제품을 정갈하고 품격 있게 준비하겠습니다. 한 번의 맛을 넘어 오래 기억되는 정성과 신뢰를 전하는 것, 이것이 햇살골망개떡이 지켜가는 철학입니다.",
+     "kind": "frame",
+     "box": [
+      106.104,
+      242.156,
+      89.702,
+      28.375
+     ],
+     "lines": [
+      {
+       "x": 106.074,
+       "baseline": 244.231,
+       "right": 181.644,
+       "text": "햇살골망개떡은 떡 한 알에 담긴 정성이 맛과 마음의 깊이를 결정한다고"
+      },
+      {
+       "x": 106.074,
+       "baseline": 248.464,
+       "right": 190.108,
+       "text": "믿습니다 . 좋은 재료를 엄선하고 전통의 방식을 정성스럽게 지키며 , 작은"
+      },
+      {
+       "x": 106.074,
+       "baseline": 252.696,
+       "right": 190.108,
+       "text": "과정 하나도 소홀히 하지 않겠습니다 . 한결같은 맛과 품질을 위해"
+      },
+      {
+       "x": 106.074,
+       "baseline": 256.928,
+       "right": 190.108,
+       "text": "끊임없이 연구하고 , 우리 떡의 익숙한 매력에 오늘의 감각을 더해 더욱"
+      },
+      {
+       "x": 106.074,
+       "baseline": 261.16,
+       "right": 190.108,
+       "text": "특별한 전통 디저트를 선보이겠습니다 . 받는 분의 기쁨과 전하는 분의"
+      },
+      {
+       "x": 106.074,
+       "baseline": 265.392,
+       "right": 190.108,
+       "text": "마음까지 세심하게 헤아려 , 모든 제품을 정갈하고 품격 있게"
+      },
+      {
+       "x": 106.074,
+       "baseline": 269.624,
+       "right": 187.287,
+       "text": "준비하겠습니다 . 한 번의 맛을 넘어 오래 기억되는 정성과 신뢰를 전하는"
+      }
+     ],
+     "lineStep": 4.233,
+     "size": 7.998,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Inter-Regular",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "JustifyLeft",
+     "caps": "None",
+     "slot": "{{story.philosophy}}",
+     "fallbackFont": "Pretendard-Regular",
+     "fallbackTracking": -0.007
+    },
+    {
+     "id": "t12",
+     "text": "CORPORATE PHILOSOPHY",
+     "kind": "art",
+     "box": [
+      105.957,
+      218.127,
+      65.139,
+      3.247
+     ],
+     "lines": [
+      {
+       "x": 105.763,
+       "baseline": 221.244,
+       "right": 105.763,
+       "text": "CORPORATE PHILOSOPHY"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.319,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t13",
+     "text": "Haetsalgol Manggae Tteok \nCOMMITMENT",
+     "kind": "art",
+     "box": [
+      105.976,
+      227.093,
+      59.568,
+      7.799
+     ],
+     "lines": [
+      {
+       "x": 105.878,
+       "baseline": 229.479,
+       "right": 105.878,
+       "text": "HAETSALGOL MANGGAE TTEOK"
+      },
+      {
+       "x": 105.878,
+       "baseline": 234.769,
+       "right": 105.878,
+       "text": "COMMITMENT"
+      }
+     ],
+     "lineStep": 5.29,
+     "size": 9.497,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "{{brand.nameEn}}\n{{story.philosophyTitle}}"
+    },
+    {
+     "id": "t14",
+     "text": "CORPORATE COLORS",
+     "kind": "art",
+     "box": [
+      14.029,
+      218.388,
+      53.194,
+      3.247
+     ],
+     "lines": [
+      {
+       "x": 13.86,
+       "baseline": 221.505,
+       "right": 13.86,
+       "text": "CORPORATE COLORS"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.319,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t15",
+     "text": "CORPORATE\nCOLOR SYSTEM",
+     "kind": "art",
+     "box": [
+      14.087,
+      227.353,
+      29.633,
+      7.799
+     ],
+     "lines": [
+      {
+       "x": 13.956,
+       "baseline": 229.74,
+       "right": 13.956,
+       "text": "CORPORATE"
+      },
+      {
+       "x": 13.956,
+       "baseline": 235.03,
+       "right": 13.956,
+       "text": "COLOR SYSTEM"
+      }
+     ],
+     "lineStep": 5.29,
+     "size": 9.497,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t16",
+     "text": "COLOR\nDEEP GREEN",
+     "kind": "art",
+     "box": [
+      15.607,
+      243.905,
+      12.404,
+      3.659
+     ],
+     "lines": [
+      {
+       "x": 15.529,
+       "baseline": 245.256,
+       "right": 15.529,
+       "text": "COLOR"
+      },
+      {
+       "x": 15.529,
+       "baseline": 247.464,
+       "right": 15.529,
+       "text": "DEEP GREEN"
+      }
+     ],
+     "lineStep": 2.208,
+     "size": 5.499,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "COLOR\n{{colors.0.name}}",
+     "maxWidth": 17.5
+    },
+    {
+     "id": "t17",
+     "text": "Color Codes",
+     "kind": "art",
+     "box": [
+      14.087,
+      259.511,
+      13.634,
+      1.784
+     ],
+     "lines": [
+      {
+       "x": 13.992,
+       "baseline": 261.183,
+       "right": 13.992,
+       "text": "Color Codes"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.76,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t18",
+     "text": "CMYK\nRGB\nCODE",
+     "runs": [
+      {
+       "t": "CMYK",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "RGB\nCODE",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      14.087,
+      263.575,
+      4.855,
+      6.956
+     ],
+     "lines": [
+      {
+       "x": 14.02,
+       "baseline": 264.72,
+       "right": 14.02,
+       "text": "CMYK"
+      },
+      {
+       "x": 14.02,
+       "baseline": 267.574,
+       "right": 14.02,
+       "text": "RGB"
+      },
+      {
+       "x": 14.02,
+       "baseline": 270.428,
+       "right": 14.02,
+       "text": "CODE"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t19",
+     "text": "C 75 M 42 Y 100 K 37\nR 52 G 88 B 0\n#345800",
+     "runs": [
+      {
+       "t": "C 75 M 42 Y 100 K 37",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "R 52 G 88 B 0\n#345800",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      22.16,
+      263.575,
+      16.36,
+      6.951
+     ],
+     "lines": [
+      {
+       "x": 22.097,
+       "baseline": 264.72,
+       "right": 22.097,
+       "text": "C 75 M 42 Y 100 K 37"
+      },
+      {
+       "x": 22.097,
+       "baseline": 267.574,
+       "right": 22.097,
+       "text": "R 52 G 88 B 0"
+      },
+      {
+       "x": 22.097,
+       "baseline": 270.428,
+       "right": 22.097,
+       "text": "#345800"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "slot": "{{colorCodes.0.cmyk}}\n{{colorCodes.0.rgb}}\n{{colorCodes.0.code}}"
+    },
+    {
+     "id": "t20",
+     "text": ":\n:\n:",
+     "kind": "art",
+     "box": [
+      20.348,
+      263.95,
+      0.232,
+      6.552
+     ],
+     "lines": [
+      {
+       "x": 20.227,
+       "baseline": 264.72,
+       "right": 20.227,
+       "text": ":"
+      },
+      {
+       "x": 20.227,
+       "baseline": 267.574,
+       "right": 20.227,
+       "text": ":"
+      },
+      {
+       "x": 20.227,
+       "baseline": 270.428,
+       "right": 20.227,
+       "text": ":"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t21",
+     "text": "COLOR\nYELLOW",
+     "kind": "art",
+     "box": [
+      46.444,
+      243.905,
+      8.203,
+      3.659
+     ],
+     "lines": [
+      {
+       "x": 46.447,
+       "baseline": 245.256,
+       "right": 46.447,
+       "text": "COLOR"
+      },
+      {
+       "x": 46.447,
+       "baseline": 247.464,
+       "right": 46.447,
+       "text": "YELLOW"
+      }
+     ],
+     "lineStep": 2.208,
+     "size": 5.499,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "COLOR\n{{colors.1.name}}",
+     "maxWidth": 17.5
+    },
+    {
+     "id": "t22",
+     "text": "Color Codes",
+     "kind": "art",
+     "box": [
+      45.013,
+      259.511,
+      13.634,
+      1.784
+     ],
+     "lines": [
+      {
+       "x": 44.91,
+       "baseline": 261.183,
+       "right": 44.91,
+       "text": "Color Codes"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.76,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t23",
+     "text": "CMYK\nRGB\nCODE",
+     "runs": [
+      {
+       "t": "CMYK",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "RGB\nCODE",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      45.013,
+      263.575,
+      4.855,
+      6.956
+     ],
+     "lines": [
+      {
+       "x": 44.937,
+       "baseline": 264.72,
+       "right": 44.937,
+       "text": "CMYK"
+      },
+      {
+       "x": 44.937,
+       "baseline": 267.574,
+       "right": 44.937,
+       "text": "RGB"
+      },
+      {
+       "x": 44.937,
+       "baseline": 270.428,
+       "right": 44.937,
+       "text": "CODE"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t24",
+     "text": "C 0 M 33 Y 100 K 0\nR 255 G 181 B 0\n#FFB500",
+     "runs": [
+      {
+       "t": "C 0 M 33 Y 100 K 0",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "R 255 G 181 B 0\n#FFB500",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      53.086,
+      263.575,
+      13.95,
+      6.951
+     ],
+     "lines": [
+      {
+       "x": 53.015,
+       "baseline": 264.72,
+       "right": 53.015,
+       "text": "C 0 M 33 Y 100 K 0"
+      },
+      {
+       "x": 53.015,
+       "baseline": 267.574,
+       "right": 53.015,
+       "text": "R 255 G 181 B 0"
+      },
+      {
+       "x": 53.015,
+       "baseline": 270.428,
+       "right": 53.015,
+       "text": "#FFB500"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": -0.02,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "slot": "{{colorCodes.1.cmyk}}\n{{colorCodes.1.rgb}}\n{{colorCodes.1.code}}"
+    },
+    {
+     "id": "t25",
+     "text": ":\n:\n:",
+     "kind": "art",
+     "box": [
+      51.274,
+      263.95,
+      0.232,
+      6.552
+     ],
+     "lines": [
+      {
+       "x": 51.145,
+       "baseline": 264.72,
+       "right": 51.145,
+       "text": ":"
+      },
+      {
+       "x": 51.145,
+       "baseline": 267.574,
+       "right": 51.145,
+       "text": ":"
+      },
+      {
+       "x": 51.145,
+       "baseline": 270.428,
+       "right": 51.145,
+       "text": ":"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t26",
+     "text": "COLOR\nRED",
+     "kind": "art",
+     "box": [
+      77.46,
+      243.905,
+      6.861,
+      3.628
+     ],
+     "lines": [
+      {
+       "x": 77.365,
+       "baseline": 245.256,
+       "right": 77.365,
+       "text": "COLOR"
+      },
+      {
+       "x": 77.365,
+       "baseline": 247.464,
+       "right": 77.365,
+       "text": "RED"
+      }
+     ],
+     "lineStep": 2.208,
+     "size": 5.499,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0,
+     "color": "#000000",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "slot": "COLOR\n{{colors.2.name}}",
+     "maxWidth": 17.5
+    },
+    {
+     "id": "t27",
+     "text": "Color Codes",
+     "kind": "art",
+     "box": [
+      75.939,
+      259.511,
+      13.634,
+      1.784
+     ],
+     "lines": [
+      {
+       "x": 75.828,
+       "baseline": 261.183,
+       "right": 75.828,
+       "text": "Color Codes"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.76,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t28",
+     "text": "CMYK\nRGB\nCODE",
+     "runs": [
+      {
+       "t": "CMYK",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "RGB\nCODE",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      75.939,
+      263.575,
+      4.855,
+      6.956
+     ],
+     "lines": [
+      {
+       "x": 75.855,
+       "baseline": 264.72,
+       "right": 75.855,
+       "text": "CMYK"
+      },
+      {
+       "x": 75.855,
+       "baseline": 267.574,
+       "right": 75.855,
+       "text": "RGB"
+      },
+      {
+       "x": 75.855,
+       "baseline": 270.428,
+       "right": 75.855,
+       "text": "CODE"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t29",
+     "text": "C 9 M 81 Y 100 K 1\nR 221 G 84 B 16\n#DD5410",
+     "runs": [
+      {
+       "t": "C 9 M 81 Y 100 K 1",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "\n",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      },
+      {
+       "t": "R 221 G 84 B 16\n#DD5410",
+       "font": "HelveticaNeue-Medium",
+       "size": 33.333,
+       "color": "#FFFFFF"
+      }
+     ],
+     "kind": "art",
+     "box": [
+      84.012,
+      263.575,
+      13.667,
+      6.951
+     ],
+     "lines": [
+      {
+       "x": 83.932,
+       "baseline": 264.72,
+       "right": 83.932,
+       "text": "C 9 M 81 Y 100 K 1"
+      },
+      {
+       "x": 83.932,
+       "baseline": 267.574,
+       "right": 83.932,
+       "text": "R 221 G 84 B 16"
+      },
+      {
+       "x": 83.932,
+       "baseline": 270.428,
+       "right": 83.932,
+       "text": "#DD5410"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": -0.02,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None",
+     "slot": "{{colorCodes.2.cmyk}}\n{{colorCodes.2.rgb}}\n{{colorCodes.2.code}}"
+    },
+    {
+     "id": "t30",
+     "text": ":\n:\n:",
+     "kind": "art",
+     "box": [
+      82.2,
+      263.95,
+      0.232,
+      6.552
+     ],
+     "lines": [
+      {
+       "x": 82.062,
+       "baseline": 264.72,
+       "right": 82.062,
+       "text": ":"
+      },
+      {
+       "x": 82.062,
+       "baseline": 267.574,
+       "right": 82.062,
+       "text": ":"
+      },
+      {
+       "x": 82.062,
+       "baseline": 270.428,
+       "right": 82.062,
+       "text": ":"
+      }
+     ],
+     "lineStep": 2.854,
+     "size": 4.722,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t31",
+     "text": "BRAND\nGUIDELINES",
+     "kind": "art",
+     "box": [
+      14.142,
+      22.475,
+      90.998,
+      26.466
+     ],
+     "lines": [
+      {
+       "x": 13.567,
+       "baseline": 33.209,
+       "right": 13.567,
+       "text": "BRAND"
+      },
+      {
+       "x": 13.567,
+       "baseline": 48.251,
+       "right": 13.567,
+       "text": "GUIDELINES"
+      }
+     ],
+     "lineStep": 15.042,
+     "size": 42.638,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t32",
+     "text": "LOGO TYPE",
+     "kind": "art",
+     "box": [
+      14.164,
+      61.983,
+      28.138,
+      3.247
+     ],
+     "lines": [
+      {
+       "x": 13.86,
+       "baseline": 65.142,
+       "right": 13.86,
+       "text": "LOGO TYPE"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.319,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t33",
+     "text": "LOGO VARIATIONS",
+     "kind": "art",
+     "box": [
+      14.214,
+      70.837,
+      34.194,
+      2.507
+     ],
+     "lines": [
+      {
+       "x": 13.956,
+       "baseline": 73.267,
+       "right": 13.956,
+       "text": "LOGO VARIATIONS"
+      }
+     ],
+     "lineStep": null,
+     "size": 9.497,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t34",
+     "text": "STATIONERY",
+     "kind": "art",
+     "box": [
+      105.971,
+      70.837,
+      23.108,
+      2.507
+     ],
+     "lines": [
+      {
+       "x": 105.831,
+       "baseline": 73.267,
+       "right": 105.831,
+       "text": "STATIONERY"
+      }
+     ],
+     "lineStep": null,
+     "size": 9.497,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Medium",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t35",
+     "text": "LOGO APPLICATIONS",
+     "kind": "art",
+     "box": [
+      105.957,
+      61.983,
+      52.198,
+      3.247
+     ],
+     "lines": [
+      {
+       "x": 105.628,
+       "baseline": 65.142,
+       "right": 105.628,
+       "text": "LOGO APPLICATIONS"
+      }
+     ],
+     "lineStep": null,
+     "size": 12.319,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue-Bold",
+     "tracking": 0.1,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "None"
+    },
+    {
+     "id": "t36",
+     "text": "햇살골망개떡",
+     "kind": "art",
+     "box": [
+      33.239,
+      91.142,
+      57.029,
+      9.704
+     ],
+     "lines": [
+      {
+       "x": 33.104,
+       "baseline": 99.416,
+       "right": 33.104,
+       "text": "햇살골망개떡"
+      }
+     ],
+     "lineStep": null,
+     "size": 27.151,
+     "stretch": 1.01,
+     "rot": 0,
+     "font": "ChungjuKimSaeng",
+     "tracking": 0,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Centre",
+     "caps": "None",
+     "skip": true
+    },
+    {
+     "id": "t37",
+     "text": "Traditional Rice Dessert",
+     "kind": "art",
+     "box": [
+      33.229,
+      104.346,
+      57.04,
+      1.93
+     ],
+     "lines": [
+      {
+       "x": 33.122,
+       "baseline": 106.215,
+       "right": 33.122,
+       "text": "TRADITIONAL RICE DESSERT"
+      }
+     ],
+     "lineStep": null,
+     "size": 7.507,
+     "stretch": 1,
+     "rot": 0,
+     "font": "Pretendard-Medium",
+     "tracking": 0.346,
+     "color": "#FFFFFF",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "skip": true
+    },
+    {
+     "id": "t38",
+     "text": "veldy.co.kr",
+     "kind": "art",
+     "box": [
+      16.788,
+      288.485,
+      16.921,
+      1.845
+     ],
+     "lines": [
+      {
+       "x": 16.827,
+       "baseline": 290.211,
+       "right": 16.827,
+       "text": "VELDY.CO.KR"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.998,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue",
+     "tracking": 0.05,
+     "color": "#294303",
+     "opacity": 1,
+     "align": "Left",
+     "caps": "AllCaps",
+     "colorRole": "bg"
+    },
+    {
+     "id": "t39",
+     "text": "Brand Identity Guidelines",
+     "kind": "art",
+     "box": [
+      155.461,
+      288.485,
+      37.75,
+      1.845
+     ],
+     "lines": [
+      {
+       "x": 152.165,
+       "baseline": 290.211,
+       "right": 152.165,
+       "text": "BRAND IDENTITY GUIDELINES"
+      }
+     ],
+     "lineStep": null,
+     "size": 6.998,
+     "stretch": 1,
+     "rot": 0,
+     "font": "HelveticaNeue",
+     "tracking": 0.05,
+     "color": "#294303",
+     "opacity": 1,
+     "align": "Right",
+     "caps": "AllCaps",
+     "colorRole": "bg"
+    }
+   ]
+  }
+ ]
+}
