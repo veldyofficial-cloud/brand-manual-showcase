@@ -72,7 +72,7 @@ footer { color: var(--sub); font-size: 13px; padding: 56px 0 48px; border-top: 1
   <header class="hero">
     <div class="eyebrow">BRAND MANUAL AUTOMATION · <a href="./" style="color:inherit">직접 만들어 보기 →</a></div>
     <h1>로고와 브랜드 정보만 넣으면,<br />브랜드 문서와 목업이 완성됩니다</h1>
-    <p class="lead">브랜드 가이드라인 · 키비주얼 · 브랜딩 매뉴얼 · 회사소개서 4종을 PDF로 만들고, 업종과 톤앤매너를 읽어 어울리는 실사 목업을 골라 자연스럽게 합성합니다. 아래는 가상 브랜드 두 곳으로 생성한 실제 결과물입니다.</p>
+    <p class="lead">브랜드 가이드라인 · 키비주얼 · 브랜딩 매뉴얼 · 회사소개서 4종을 PDF로 만들고, 업종과 톤앤매너를 읽어 어울리는 실사 목업을 골라 자연스럽게 합성합니다. 아래에서 쌈쌈 최신 검토본과 시연용 브랜드 결과물을 확인할 수 있습니다.</p>
     <div class="steps">
       <div class="step"><b>1. 입력</b><span>로고 파일, 브랜드명, 업종, 소개, 톤앤매너, 컬러</span></div>
       <div class="step"><b>2. 자동 구성</b><span>로고 변형 · 컬러 시스템 · 서체 · 문서 레이아웃 · 업종 맞춤 목업 선택</span></div>
@@ -110,13 +110,13 @@ function render(b) {
         <div class="swatches">${b.colors.map((h) => `<i style="background:${h}" title="${h}"></i>`).join('')}</div>
       </div>
     </div>
-    <section>
+    ${b.mockups.length ? `<section>
       <h3>업종 맞춤 목업</h3>
       <p class="note">브랜드 설명을 읽어 어울리는 제품을 고르고, 원근 · 곡면 · 빛과 그림자에 맞춰 로고를 합성했습니다.</p>
       <div class="mocks">${b.mockups.map((m) => `<figure><img src="${m.src}" alt="${esc(m.label)}" loading="lazy" /><figcaption>${esc(m.label)}</figcaption></figure>`).join('')}</div>
-    </section>
+    </section>` : ''}
     <section>
-      <h3>문서 4종 (PDF)</h3>
+      <h3>브랜드 문서 (PDF)</h3>
       <p class="note">문서를 열면 전체 페이지를 볼 수 있습니다. 아래는 대표 페이지 미리보기입니다.</p>
       ${b.docs.map((d) => `
         <div class="doc">

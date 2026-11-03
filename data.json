@@ -1,5 +1,79 @@
 [
  {
+  "id": "ssam",
+  "nameKo": "쌈쌈",
+  "nameEn": "SSAM SSAM",
+  "tagline": "Wrap It Your Way. Share the Joy.",
+  "oneLiner": "라임 그린을 중심으로 구성한 쌈쌈 브랜드 매뉴얼 검토본입니다.",
+  "industry": "한식 · 식음료",
+  "tone": "밝음, 친근함, 활기",
+  "detected": "food",
+  "colors": [
+   "#A8D62F",
+   "#FA591A",
+   "#392313",
+   "#F1F0EE"
+  ],
+  "logo": "brands/ssam/logo.png",
+  "docs": [
+   {
+    "id": "A",
+    "label": "A. 원페이퍼 가이드라인",
+    "pages": 1,
+    "pdf": "brands/ssam/docs/SSAM_SSAM_A.pdf",
+    "thumbs": [
+     "brands/ssam/thumbs/A-01.jpg"
+    ]
+   },
+   {
+    "id": "C",
+    "label": "C. 브랜딩 매뉴얼",
+    "pages": 37,
+    "pdf": "brands/ssam/docs/SSAM_SSAM_C.pdf",
+    "thumbs": [
+     "brands/ssam/thumbs/C-01.jpg",
+     "brands/ssam/thumbs/C-02.jpg",
+     "brands/ssam/thumbs/C-03.jpg",
+     "brands/ssam/thumbs/C-04.jpg",
+     "brands/ssam/thumbs/C-05.jpg",
+     "brands/ssam/thumbs/C-06.jpg",
+     "brands/ssam/thumbs/C-07.jpg",
+     "brands/ssam/thumbs/C-08.jpg",
+     "brands/ssam/thumbs/C-09.jpg",
+     "brands/ssam/thumbs/C-10.jpg",
+     "brands/ssam/thumbs/C-11.jpg",
+     "brands/ssam/thumbs/C-12.jpg",
+     "brands/ssam/thumbs/C-13.jpg",
+     "brands/ssam/thumbs/C-14.jpg",
+     "brands/ssam/thumbs/C-15.jpg",
+     "brands/ssam/thumbs/C-16.jpg",
+     "brands/ssam/thumbs/C-17.jpg",
+     "brands/ssam/thumbs/C-18.jpg",
+     "brands/ssam/thumbs/C-19.jpg",
+     "brands/ssam/thumbs/C-20.jpg",
+     "brands/ssam/thumbs/C-21.jpg",
+     "brands/ssam/thumbs/C-22.jpg",
+     "brands/ssam/thumbs/C-23.jpg",
+     "brands/ssam/thumbs/C-24.jpg",
+     "brands/ssam/thumbs/C-25.jpg",
+     "brands/ssam/thumbs/C-26.jpg",
+     "brands/ssam/thumbs/C-27.jpg",
+     "brands/ssam/thumbs/C-28.jpg",
+     "brands/ssam/thumbs/C-29.jpg",
+     "brands/ssam/thumbs/C-30.jpg",
+     "brands/ssam/thumbs/C-31.jpg",
+     "brands/ssam/thumbs/C-32.jpg",
+     "brands/ssam/thumbs/C-33.jpg",
+     "brands/ssam/thumbs/C-34.jpg",
+     "brands/ssam/thumbs/C-35.jpg",
+     "brands/ssam/thumbs/C-36.jpg",
+     "brands/ssam/thumbs/C-37.jpg"
+    ]
+   }
+  ],
+  "mockups": []
+ },
+ {
   "id": "moadam",
   "nameKo": "모아담 티하우스",
   "nameEn": "MOADAM",

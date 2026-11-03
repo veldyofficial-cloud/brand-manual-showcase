@@ -40,11 +40,7 @@
                     <rect x="-1870" y="2685" width="204" height="170" style="fill:rgb(221,84,16);"/>
                 </g>
             </g>
-            <g opacity="0.05">
-                <g transform="matrix(1.414286,-0,-0,0.707071,0,0)">
-                    <use xlink:href="#_Image3" x="0" y="90.187" width="2481px" height="3418px"/>
-                </g>
-            </g>
+
             <g transform="matrix(1.414286,0,0,0.707071,-14.627278,1.414141)">
                 <path d="M178,104L2323,104" style="fill:none;stroke:white;stroke-width:8.33px;"/>
             </g>
@@ -71,7 +67,7 @@
                 </g>
             </g>
             <g transform="matrix(1.414286,0,0,0.55479,0,526.737713)">
-                <rect x="167.657" y="3355" width="2145" height="104" style="fill:rgb(255,181,0);"/>
+                <rect x="167.657" y="3355" width="2145" height="104" style="fill:rgb(255,182,0);"/>
             </g>
         </g>
     </g>
