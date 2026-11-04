@@ -1,0 +1,1019 @@
+{
+  "reports": [
+    {
+      "createdAt": "2026-11-04T04:36:27.818071+00:00",
+      "candidateSet": "ssam",
+      "limitPercent": 0.0015,
+      "metric": {
+        "pageWidthPx": 1000,
+        "maximumChannelDifferenceGreaterThan": 48,
+        "denominator": "all page pixels",
+        "excludedRegions": [],
+        "decision": "every page and every document mean must be <= limit; compare unrounded values",
+        "renderer": "PyMuPDF 1.28.0"
+      },
+      "comparison": "SSAM PDFs against supplied different-brand originals. Branding changes count as differences; this is not pure layout error.",
+      "unavailableDocuments": [
+        "B"
+      ],
+      "documents": {
+        "A": {
+          "reference": "refs\\Haetsalgol Manggae Tteok logo manual.pdf",
+          "referenceSha256": "436a15d593fae304a06333d263931f50638dab42a46e9db77208d4a83ce217a4",
+          "candidate": "output\\pdf\\SSAM_SSAM_A_쌈쌈톤_최종.pdf",
+          "candidateSha256": "29327ff913013f4531ca3b0c58fa517976e9b9b2ad1f70b3b2f0d6dbd045b6d0",
+          "meanPercent": 93.61082036775106,
+          "maxPercent": 93.61082036775106,
+          "failedPages": [
+            1
+          ],
+          "passed": false,
+          "pages": [
+            {
+              "page": 1,
+              "changedPixels": 1323657,
+              "totalPixels": 1414000,
+              "allowedChangedPixels": 21,
+              "meanAbsoluteChannelDifference": 99.02385902876001,
+              "exactDifferentPixels": 1407091,
+              "differencePercent": 93.61082036775106,
+              "passed": false
+            }
+          ]
+        },
+        "C": {
+          "reference": "refs\\JUNISH MANUAL.pdf",
+          "referenceSha256": "a869db2fa4fd4cc09f60ea6adcd2dff0a61f0fcbbcd45e2441a2e49232069d7a",
+          "candidate": "output\\pdf\\SSAM_SSAM_C_쌈쌈톤_최종.pdf",
+          "candidateSha256": "19a23fc75c174eb74488b206bd32079b91da79c843239b97670dd6be4c63940f",
+          "meanPercent": 12.052956717535507,
+          "maxPercent": 99.70805084745763,
+          "failedPages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "passed": false,
+          "pages": [
+            {
+              "page": 1,
+              "changedPixels": 705933,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 88.45118126177024,
+              "exactDifferentPixels": 707000,
+              "differencePercent": 99.70805084745763,
+              "passed": false
+            },
+            {
+              "page": 2,
+              "changedPixels": 7448,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 9.492583333333334,
+              "exactDifferentPixels": 707000,
+              "differencePercent": 1.0519774011299434,
+              "passed": false
+            },
+            {
+              "page": 3,
+              "changedPixels": 21475,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 5.131674199623352,
+              "exactDifferentPixels": 36093,
+              "differencePercent": 3.03319209039548,
+              "passed": false
+            },
+            {
+              "page": 4,
+              "changedPixels": 16464,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.804309322033898,
+              "exactDifferentPixels": 29727,
+              "differencePercent": 2.3254237288135595,
+              "passed": false
+            },
+            {
+              "page": 5,
+              "changedPixels": 19305,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.9493173258003766,
+              "exactDifferentPixels": 37347,
+              "differencePercent": 2.7266949152542375,
+              "passed": false
+            },
+            {
+              "page": 6,
+              "changedPixels": 14635,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.946792372881356,
+              "exactDifferentPixels": 30935,
+              "differencePercent": 2.0670903954802258,
+              "passed": false
+            },
+            {
+              "page": 7,
+              "changedPixels": 17298,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 4.021897834274953,
+              "exactDifferentPixels": 32359,
+              "differencePercent": 2.4432203389830507,
+              "passed": false
+            },
+            {
+              "page": 8,
+              "changedPixels": 25487,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 4.918592644978784,
+              "exactDifferentPixels": 41277,
+              "differencePercent": 3.604950495049505,
+              "passed": false
+            },
+            {
+              "page": 9,
+              "changedPixels": 27533,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.0938469868173257,
+              "exactDifferentPixels": 72635,
+              "differencePercent": 3.8888418079096043,
+              "passed": false
+            },
+            {
+              "page": 10,
+              "changedPixels": 28777,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.4641497175141245,
+              "exactDifferentPixels": 79918,
+              "differencePercent": 4.06454802259887,
+              "passed": false
+            },
+            {
+              "page": 11,
+              "changedPixels": 27398,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.026934086629002,
+              "exactDifferentPixels": 68773,
+              "differencePercent": 3.869774011299435,
+              "passed": false
+            },
+            {
+              "page": 12,
+              "changedPixels": 36799,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 4.406521657250471,
+              "exactDifferentPixels": 85987,
+              "differencePercent": 5.197598870056497,
+              "passed": false
+            },
+            {
+              "page": 13,
+              "changedPixels": 17690,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.2835885122410544,
+              "exactDifferentPixels": 62300,
+              "differencePercent": 2.498587570621469,
+              "passed": false
+            },
+            {
+              "page": 14,
+              "changedPixels": 21032,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.7855701506591335,
+              "exactDifferentPixels": 72357,
+              "differencePercent": 2.9706214689265535,
+              "passed": false
+            },
+            {
+              "page": 15,
+              "changedPixels": 22628,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.5255141242937853,
+              "exactDifferentPixels": 63360,
+              "differencePercent": 3.196045197740113,
+              "passed": false
+            },
+            {
+              "page": 16,
+              "changedPixels": 25775,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.637859500235738,
+              "exactDifferentPixels": 79933,
+              "differencePercent": 3.6456859971711455,
+              "passed": false
+            },
+            {
+              "page": 17,
+              "changedPixels": 11041,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.5424143126177023,
+              "exactDifferentPixels": 37847,
+              "differencePercent": 1.5594632768361583,
+              "passed": false
+            },
+            {
+              "page": 18,
+              "changedPixels": 11751,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.6615376647834275,
+              "exactDifferentPixels": 39692,
+              "differencePercent": 1.6597457627118644,
+              "passed": false
+            },
+            {
+              "page": 19,
+              "changedPixels": 13543,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.6508488700564972,
+              "exactDifferentPixels": 37886,
+              "differencePercent": 1.9128531073446329,
+              "passed": false
+            },
+            {
+              "page": 20,
+              "changedPixels": 13042,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.9716793785310736,
+              "exactDifferentPixels": 40760,
+              "differencePercent": 1.842090395480226,
+              "passed": false
+            },
+            {
+              "page": 21,
+              "changedPixels": 26198,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 5.495191619585688,
+              "exactDifferentPixels": 44670,
+              "differencePercent": 3.7002824858757064,
+              "passed": false
+            },
+            {
+              "page": 22,
+              "changedPixels": 29363,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 6.340481167608286,
+              "exactDifferentPixels": 49127,
+              "differencePercent": 4.147316384180791,
+              "passed": false
+            },
+            {
+              "page": 23,
+              "changedPixels": 25024,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 5.438109698681733,
+              "exactDifferentPixels": 42141,
+              "differencePercent": 3.534463276836158,
+              "passed": false
+            },
+            {
+              "page": 24,
+              "changedPixels": 23598,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 4.685281942479962,
+              "exactDifferentPixels": 46705,
+              "differencePercent": 3.3377652050919377,
+              "passed": false
+            },
+            {
+              "page": 25,
+              "changedPixels": 30579,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 6.859275423728813,
+              "exactDifferentPixels": 42939,
+              "differencePercent": 4.319067796610169,
+              "passed": false
+            },
+            {
+              "page": 26,
+              "changedPixels": 34972,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 7.380950094161959,
+              "exactDifferentPixels": 50020,
+              "differencePercent": 4.93954802259887,
+              "passed": false
+            },
+            {
+              "page": 27,
+              "changedPixels": 45054,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 7.333028719397364,
+              "exactDifferentPixels": 65160,
+              "differencePercent": 6.363559322033899,
+              "passed": false
+            },
+            {
+              "page": 28,
+              "changedPixels": 143549,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 19.27853483992467,
+              "exactDifferentPixels": 293792,
+              "differencePercent": 20.275282485875707,
+              "passed": false
+            },
+            {
+              "page": 29,
+              "changedPixels": 225478,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 31.41963935969868,
+              "exactDifferentPixels": 440238,
+              "differencePercent": 31.84717514124294,
+              "passed": false
+            },
+            {
+              "page": 30,
+              "changedPixels": 228489,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 31.06665536723164,
+              "exactDifferentPixels": 451024,
+              "differencePercent": 32.27245762711864,
+              "passed": false
+            },
+            {
+              "page": 31,
+              "changedPixels": 276637,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 47.60695009416196,
+              "exactDifferentPixels": 296264,
+              "differencePercent": 39.073022598870054,
+              "passed": false
+            },
+            {
+              "page": 32,
+              "changedPixels": 430321,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 74.633057048562,
+              "exactDifferentPixels": 443383,
+              "differencePercent": 60.86577086280057,
+              "passed": false
+            },
+            {
+              "page": 33,
+              "changedPixels": 441772,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 76.98691949152543,
+              "exactDifferentPixels": 452634,
+              "differencePercent": 62.39717514124294,
+              "passed": false
+            },
+            {
+              "page": 34,
+              "changedPixels": 44867,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 8.617424199623352,
+              "exactDifferentPixels": 69346,
+              "differencePercent": 6.337146892655367,
+              "passed": false
+            },
+            {
+              "page": 35,
+              "changedPixels": 31968,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 6.234787664783427,
+              "exactDifferentPixels": 49136,
+              "differencePercent": 4.5152542372881355,
+              "passed": false
+            },
+            {
+              "page": 36,
+              "changedPixels": 31709,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 6.120177495291902,
+              "exactDifferentPixels": 49780,
+              "differencePercent": 4.478672316384181,
+              "passed": false
+            },
+            {
+              "page": 37,
+              "changedPixels": 2046,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 8.965530602636536,
+              "exactDifferentPixels": 708000,
+              "differencePercent": 0.2889830508474576,
+              "passed": false
+            }
+          ]
+        }
+      },
+      "passed": false
+    },
+    {
+      "createdAt": "2026-11-04T04:36:24.915475+00:00",
+      "candidateSet": "fixture",
+      "limitPercent": 0.0015,
+      "metric": {
+        "pageWidthPx": 1000,
+        "maximumChannelDifferenceGreaterThan": 48,
+        "denominator": "all page pixels",
+        "excludedRegions": [],
+        "decision": "every page and every document mean must be <= limit; compare unrounded values",
+        "renderer": "PyMuPDF 1.28.0"
+      },
+      "comparison": "Reference-brand fixture PDFs against supplied originals. Includes changed VELDY artwork; fixture mismatch is not pure renderer error.",
+      "unavailableDocuments": [],
+      "documents": {
+        "A": {
+          "reference": "refs\\Haetsalgol Manggae Tteok logo manual.pdf",
+          "referenceSha256": "436a15d593fae304a06333d263931f50638dab42a46e9db77208d4a83ce217a4",
+          "candidate": "data\\replica\\A\\A.pdf",
+          "candidateSha256": "87fcf7020c8ac3e885bb195a9ff72dbb56ddbf6a38b0ba78980d90a62571370c",
+          "meanPercent": 6.534936350777935,
+          "maxPercent": 6.534936350777935,
+          "failedPages": [
+            1
+          ],
+          "passed": false,
+          "pages": [
+            {
+              "page": 1,
+              "changedPixels": 92404,
+              "totalPixels": 1414000,
+              "allowedChangedPixels": 21,
+              "meanAbsoluteChannelDifference": 10.445423385195662,
+              "exactDifferentPixels": 1344448,
+              "differencePercent": 6.534936350777935,
+              "passed": false
+            }
+          ]
+        },
+        "B": {
+          "reference": "refs\\240524 JUNISH COSMETIC CLINIC KEY VISUAL.pdf",
+          "referenceSha256": "2490699ef65654df6ba9c806ffa161b1da0a8aeb96bfde8715de7cdf4a886a8b",
+          "candidate": "data\\replica\\B\\B.pdf",
+          "candidateSha256": "0a825b7337d2213ea289e14d56f72c2c7d66eaf0ef5c409eed45fcf0c0d55959",
+          "meanPercent": 0.26101694915254237,
+          "maxPercent": 0.6382768361581921,
+          "failedPages": [
+            1,
+            2,
+            4,
+            5,
+            6,
+            7
+          ],
+          "passed": false,
+          "pages": [
+            {
+              "page": 1,
+              "changedPixels": 3128,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.0590616760828626,
+              "exactDifferentPixels": 706317,
+              "differencePercent": 0.44180790960451977,
+              "passed": false
+            },
+            {
+              "page": 2,
+              "changedPixels": 1249,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.9924289077212806,
+              "exactDifferentPixels": 707831,
+              "differencePercent": 0.17641242937853108,
+              "passed": false
+            },
+            {
+              "page": 3,
+              "changedPixels": 8,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.7425998116760829,
+              "exactDifferentPixels": 706516,
+              "differencePercent": 0.0011299435028248588,
+              "passed": true
+            },
+            {
+              "page": 4,
+              "changedPixels": 4519,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.4216916195856875,
+              "exactDifferentPixels": 706799,
+              "differencePercent": 0.6382768361581921,
+              "passed": false
+            },
+            {
+              "page": 5,
+              "changedPixels": 1167,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.910780131826742,
+              "exactDifferentPixels": 706719,
+              "differencePercent": 0.16483050847457628,
+              "passed": false
+            },
+            {
+              "page": 6,
+              "changedPixels": 1667,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.8890273069679849,
+              "exactDifferentPixels": 596355,
+              "differencePercent": 0.23545197740112994,
+              "passed": false
+            },
+            {
+              "page": 7,
+              "changedPixels": 1198,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.1724656308851225,
+              "exactDifferentPixels": 530336,
+              "differencePercent": 0.1692090395480226,
+              "passed": false
+            }
+          ]
+        },
+        "C": {
+          "reference": "refs\\JUNISH MANUAL.pdf",
+          "referenceSha256": "a869db2fa4fd4cc09f60ea6adcd2dff0a61f0fcbbcd45e2441a2e49232069d7a",
+          "candidate": "data\\replica\\C\\C.pdf",
+          "candidateSha256": "bb0ad3325b633844c9be1228cb750cb4c178e7653fa89ffaa07db43892ad4dad",
+          "meanPercent": 1.208367149783495,
+          "maxPercent": 3.982627118644068,
+          "failedPages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ],
+          "passed": false,
+          "pages": [
+            {
+              "page": 1,
+              "changedPixels": 3983,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.8903973634651601,
+              "exactDifferentPixels": 707000,
+              "differencePercent": 0.5625706214689266,
+              "passed": false
+            },
+            {
+              "page": 2,
+              "changedPixels": 3693,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.1506134651600752,
+              "exactDifferentPixels": 706994,
+              "differencePercent": 0.5216101694915254,
+              "passed": false
+            },
+            {
+              "page": 3,
+              "changedPixels": 8281,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.486361111111111,
+              "exactDifferentPixels": 26525,
+              "differencePercent": 1.169632768361582,
+              "passed": false
+            },
+            {
+              "page": 4,
+              "changedPixels": 7309,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.293867231638418,
+              "exactDifferentPixels": 22565,
+              "differencePercent": 1.0323446327683616,
+              "passed": false
+            },
+            {
+              "page": 5,
+              "changedPixels": 4037,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.8025682674199623,
+              "exactDifferentPixels": 27036,
+              "differencePercent": 0.5701977401129944,
+              "passed": false
+            },
+            {
+              "page": 6,
+              "changedPixels": 3856,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.7701916195856874,
+              "exactDifferentPixels": 23528,
+              "differencePercent": 0.5446327683615819,
+              "passed": false
+            },
+            {
+              "page": 7,
+              "changedPixels": 3276,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.6614331450094162,
+              "exactDifferentPixels": 21183,
+              "differencePercent": 0.46271186440677964,
+              "passed": false
+            },
+            {
+              "page": 8,
+              "changedPixels": 4841,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.062107496463932,
+              "exactDifferentPixels": 41045,
+              "differencePercent": 0.6847241867043847,
+              "passed": false
+            },
+            {
+              "page": 9,
+              "changedPixels": 5266,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.0459114877589455,
+              "exactDifferentPixels": 61606,
+              "differencePercent": 0.7437853107344633,
+              "passed": false
+            },
+            {
+              "page": 10,
+              "changedPixels": 6624,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.2243060263653485,
+              "exactDifferentPixels": 69184,
+              "differencePercent": 0.9355932203389831,
+              "passed": false
+            },
+            {
+              "page": 11,
+              "changedPixels": 5449,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.100828154425612,
+              "exactDifferentPixels": 57854,
+              "differencePercent": 0.7696327683615819,
+              "passed": false
+            },
+            {
+              "page": 12,
+              "changedPixels": 9114,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.4106483050847458,
+              "exactDifferentPixels": 74552,
+              "differencePercent": 1.2872881355932204,
+              "passed": false
+            },
+            {
+              "page": 13,
+              "changedPixels": 4762,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.0190371939736347,
+              "exactDifferentPixels": 54823,
+              "differencePercent": 0.6725988700564972,
+              "passed": false
+            },
+            {
+              "page": 14,
+              "changedPixels": 5732,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.1904387947269304,
+              "exactDifferentPixels": 62764,
+              "differencePercent": 0.8096045197740113,
+              "passed": false
+            },
+            {
+              "page": 15,
+              "changedPixels": 5307,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.0857292843691149,
+              "exactDifferentPixels": 54143,
+              "differencePercent": 0.7495762711864407,
+              "passed": false
+            },
+            {
+              "page": 16,
+              "changedPixels": 8693,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.5408458274398869,
+              "exactDifferentPixels": 72396,
+              "differencePercent": 1.2295615275813296,
+              "passed": false
+            },
+            {
+              "page": 17,
+              "changedPixels": 3129,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.6496558380414312,
+              "exactDifferentPixels": 32416,
+              "differencePercent": 0.4419491525423729,
+              "passed": false
+            },
+            {
+              "page": 18,
+              "changedPixels": 2982,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.6594651600753295,
+              "exactDifferentPixels": 34372,
+              "differencePercent": 0.4211864406779661,
+              "passed": false
+            },
+            {
+              "page": 19,
+              "changedPixels": 3280,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.6901454802259887,
+              "exactDifferentPixels": 32553,
+              "differencePercent": 0.4632768361581921,
+              "passed": false
+            },
+            {
+              "page": 20,
+              "changedPixels": 3814,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.788144538606403,
+              "exactDifferentPixels": 35278,
+              "differencePercent": 0.5387005649717514,
+              "passed": false
+            },
+            {
+              "page": 21,
+              "changedPixels": 12893,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.2475310734463276,
+              "exactDifferentPixels": 35211,
+              "differencePercent": 1.821045197740113,
+              "passed": false
+            },
+            {
+              "page": 22,
+              "changedPixels": 16280,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.822457627118644,
+              "exactDifferentPixels": 38294,
+              "differencePercent": 2.2994350282485874,
+              "passed": false
+            },
+            {
+              "page": 23,
+              "changedPixels": 12357,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.028578154425612,
+              "exactDifferentPixels": 32196,
+              "differencePercent": 1.7453389830508474,
+              "passed": false
+            },
+            {
+              "page": 24,
+              "changedPixels": 15012,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.494834040546912,
+              "exactDifferentPixels": 40073,
+              "differencePercent": 2.1233380480905235,
+              "passed": false
+            },
+            {
+              "page": 25,
+              "changedPixels": 10077,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.5489086629001882,
+              "exactDifferentPixels": 29938,
+              "differencePercent": 1.4233050847457627,
+              "passed": false
+            },
+            {
+              "page": 26,
+              "changedPixels": 16240,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.3201092278719395,
+              "exactDifferentPixels": 40264,
+              "differencePercent": 2.2937853107344632,
+              "passed": false
+            },
+            {
+              "page": 27,
+              "changedPixels": 2653,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 0.5887914312617702,
+              "exactDifferentPixels": 62692,
+              "differencePercent": 0.37471751412429377,
+              "passed": false
+            },
+            {
+              "page": 28,
+              "changedPixels": 5961,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.5229044256120527,
+              "exactDifferentPixels": 285113,
+              "differencePercent": 0.8419491525423729,
+              "passed": false
+            },
+            {
+              "page": 29,
+              "changedPixels": 8663,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.0843714689265536,
+              "exactDifferentPixels": 439264,
+              "differencePercent": 1.223587570621469,
+              "passed": false
+            },
+            {
+              "page": 30,
+              "changedPixels": 7048,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.903632768361582,
+              "exactDifferentPixels": 450499,
+              "differencePercent": 0.9954802259887006,
+              "passed": false
+            },
+            {
+              "page": 31,
+              "changedPixels": 6357,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.3994538606403013,
+              "exactDifferentPixels": 294415,
+              "differencePercent": 0.8978813559322034,
+              "passed": false
+            },
+            {
+              "page": 32,
+              "changedPixels": 11653,
+              "totalPixels": 707000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 2.4175591702027344,
+              "exactDifferentPixels": 440837,
+              "differencePercent": 1.6482319660537483,
+              "passed": false
+            },
+            {
+              "page": 33,
+              "changedPixels": 7618,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 1.8605160075329568,
+              "exactDifferentPixels": 450895,
+              "differencePercent": 1.0759887005649718,
+              "passed": false
+            },
+            {
+              "page": 34,
+              "changedPixels": 19019,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 3.70189736346516,
+              "exactDifferentPixels": 56101,
+              "differencePercent": 2.6862994350282485,
+              "passed": false
+            },
+            {
+              "page": 35,
+              "changedPixels": 26282,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 4.869477401129943,
+              "exactDifferentPixels": 51608,
+              "differencePercent": 3.712146892655367,
+              "passed": false
+            },
+            {
+              "page": 36,
+              "changedPixels": 28197,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 5.139183145009416,
+              "exactDifferentPixels": 51714,
+              "differencePercent": 3.982627118644068,
+              "passed": false
+            },
+            {
+              "page": 37,
+              "changedPixels": 6749,
+              "totalPixels": 708000,
+              "allowedChangedPixels": 10,
+              "meanAbsoluteChannelDifference": 24.481855461393597,
+              "exactDifferentPixels": 708000,
+              "differencePercent": 0.9532485875706215,
+              "passed": false
+            }
+          ]
+        }
+      },
+      "passed": false
+    }
+  ]
+}
