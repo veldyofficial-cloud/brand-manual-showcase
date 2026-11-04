@@ -69,6 +69,17 @@
      "brands/ssam/thumbs/C-36.jpg",
      "brands/ssam/thumbs/C-37.jpg"
     ]
+   },
+   {
+    "id": "AC-comparison",
+    "label": "샘플 · A·C 원본 / 수정본 좌우 비교",
+    "pages": 39,
+    "pdf": "brands/ssam/docs/SSAM_SSAM_AC_comparison_sample.pdf",
+    "thumbs": [
+     "brands/ssam/thumbs/AC-comparison-02.jpg",
+     "brands/ssam/thumbs/AC-comparison-13.jpg",
+     "brands/ssam/thumbs/AC-comparison-31.jpg"
+    ]
    }
   ],
   "mockups": []
