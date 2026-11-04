@@ -15880,79 +15880,37 @@
     },
     {
      "id": "t9",
-     "text": "브랜드 아이덴티티\n금지 규정",
-     "kind": "art",
+     "text": "브랜드 아이덴티티 금지 규정",
+     "kind": "frame",
      "box": [
       107.405,
       25.435,
       41.207,
-      9.348
+      5
      ],
      "lines": [
       {
        "x": 107.385,
        "baseline": 28.109,
        "right": 137.55,
-       "text": "브랜드 아이덴티티",
-       "pieces": [
-        {
-         "x": 107.385,
-         "t": "브랜드",
-         "font": "MalgunGothicBold",
-         "size": 9.998,
-         "color": "#4C4C4E"
-        },
-        {
-         "x": 118.94,
-         "t": "아이덴티티",
-         "font": "MalgunGothicBold",
-         "size": 9.998,
-         "color": "#4C4C4E"
-        },
-        {
-         "x": 137.55,
-         "t": "금지",
-         "font": "MalgunGothicBold",
-         "size": 9.998,
-         "color": "#4C4C4E"
-        }
-       ],
-       "src": "브랜드 아이덴티티",
+       "text": "브랜드 아이덴티티 금지 규정",
+       "src": "브랜드 아이덴티티 금지 규정",
        "color": "#4C4C4E",
-       "size": 9.998
-      },
-      {
-       "x": 107.385,
-       "baseline": 31.636000000000003,
-       "right": 107.385,
-       "text": "금지 규정",
-       "pieces": [
-        {
-         "x": 107.385,
-         "t": "규정",
-         "font": "MalgunGothicBold",
-         "size": 9.998,
-         "color": "#4C4C4E"
-        }
-       ],
-       "src": "금지 규정",
-       "color": "#4C4C4E",
-       "size": 9.998
+       "size": 9.998,
+       "font": "Pretendard-Medium"
       }
      ],
      "lineStep": 3.527,
      "size": 9.998,
      "stretch": 1,
      "rot": 0,
-     "font": "Montserrat-SemiBold",
+     "font": "Pretendard-Medium",
      "tracking": 0,
      "color": "#262626",
      "opacity": 1,
      "align": "Left",
      "caps": "None",
-     "fallbackFont": "Pretendard-Medium",
-     "slot": "브랜드 아이덴티티\n금지 규정",
-     "maxWidth": 60
+     "fallbackFont": "Pretendard-Medium"
     },
     {
      "id": "t10",
