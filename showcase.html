@@ -121,6 +121,7 @@ function render(b) {
       ${b.docs.map((d) => `
         <div class="doc">
           <div class="doc-head"><h4>${esc(d.label)}<small>${d.pages}페이지</small></h4><a class="btn" href="${d.pdf}" target="_blank" rel="noopener">PDF 열기</a></div>
+          ${d.note ? `<p class="note">${esc(d.note)}</p>` : ''}
           <div class="strip">${d.thumbs.map((t) => `<img src="${t}" alt="" loading="lazy" />`).join('')}</div>
         </div>`).join('')}
     </section>`;

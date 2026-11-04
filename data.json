@@ -26,6 +26,22 @@
     ]
    },
    {
+    "id": "B",
+    "label": "B. 키비주얼 · 검토 샘플",
+    "pages": 7,
+    "pdf": "brands/ssam/docs/SSAM_SSAM_B_sample.pdf",
+    "thumbs": [
+     "brands/ssam/thumbs/B-01.jpg",
+     "brands/ssam/thumbs/B-02.jpg",
+     "brands/ssam/thumbs/B-03.jpg",
+     "brands/ssam/thumbs/B-04.jpg",
+     "brands/ssam/thumbs/B-05.jpg",
+     "brands/ssam/thumbs/B-06.jpg",
+     "brands/ssam/thumbs/B-07.jpg"
+    ],
+    "note": "기존 쌈쌈 검토 샘플입니다. A·C 최신 수정본과 제작 시점이 다릅니다."
+   },
+   {
     "id": "C",
     "label": "C. 브랜딩 매뉴얼",
     "pages": 37,
@@ -69,6 +85,55 @@
      "brands/ssam/thumbs/C-36.jpg",
      "brands/ssam/thumbs/C-37.jpg"
     ]
+   },
+   {
+    "id": "D",
+    "label": "D. 브랜드 스타일 가이드 · 검토 샘플",
+    "pages": 40,
+    "pdf": "brands/ssam/docs/SSAM_SSAM_D_sample.pdf",
+    "thumbs": [
+     "brands/ssam/thumbs/D-01.jpg",
+     "brands/ssam/thumbs/D-02.jpg",
+     "brands/ssam/thumbs/D-03.jpg",
+     "brands/ssam/thumbs/D-04.jpg",
+     "brands/ssam/thumbs/D-05.jpg",
+     "brands/ssam/thumbs/D-06.jpg",
+     "brands/ssam/thumbs/D-07.jpg",
+     "brands/ssam/thumbs/D-08.jpg",
+     "brands/ssam/thumbs/D-09.jpg",
+     "brands/ssam/thumbs/D-10.jpg",
+     "brands/ssam/thumbs/D-11.jpg",
+     "brands/ssam/thumbs/D-12.jpg",
+     "brands/ssam/thumbs/D-13.jpg",
+     "brands/ssam/thumbs/D-14.jpg",
+     "brands/ssam/thumbs/D-15.jpg",
+     "brands/ssam/thumbs/D-16.jpg",
+     "brands/ssam/thumbs/D-17.jpg",
+     "brands/ssam/thumbs/D-18.jpg",
+     "brands/ssam/thumbs/D-19.jpg",
+     "brands/ssam/thumbs/D-20.jpg",
+     "brands/ssam/thumbs/D-21.jpg",
+     "brands/ssam/thumbs/D-22.jpg",
+     "brands/ssam/thumbs/D-23.jpg",
+     "brands/ssam/thumbs/D-24.jpg",
+     "brands/ssam/thumbs/D-25.jpg",
+     "brands/ssam/thumbs/D-26.jpg",
+     "brands/ssam/thumbs/D-27.jpg",
+     "brands/ssam/thumbs/D-28.jpg",
+     "brands/ssam/thumbs/D-29.jpg",
+     "brands/ssam/thumbs/D-30.jpg",
+     "brands/ssam/thumbs/D-31.jpg",
+     "brands/ssam/thumbs/D-32.jpg",
+     "brands/ssam/thumbs/D-33.jpg",
+     "brands/ssam/thumbs/D-34.jpg",
+     "brands/ssam/thumbs/D-35.jpg",
+     "brands/ssam/thumbs/D-36.jpg",
+     "brands/ssam/thumbs/D-37.jpg",
+     "brands/ssam/thumbs/D-38.jpg",
+     "brands/ssam/thumbs/D-39.jpg",
+     "brands/ssam/thumbs/D-40.jpg"
+    ],
+    "note": "기존 쌈쌈 검토 샘플입니다. A·C 최신 수정본과 제작 시점이 다릅니다."
    },
    {
     "id": "AC-comparison",
