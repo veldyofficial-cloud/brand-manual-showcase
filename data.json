@@ -4,7 +4,7 @@
   "nameKo": "쌈쌈",
   "nameEn": "SSAM SSAM",
   "tagline": "Wrap It Your Way. Share the Joy.",
-  "oneLiner": "라임 그린을 중심으로 구성한 쌈쌈 브랜드 매뉴얼 검토본입니다.",
+  "oneLiner": "쌈쌈 브랜드 매뉴얼 검토본입니다.",
   "industry": "한식 · 식음료",
   "tone": "밝음, 친근함, 활기",
   "detected": "food",
@@ -23,7 +23,8 @@
     "pdf": "brands/ssam/docs/SSAM_SSAM_A.pdf",
     "thumbs": [
      "brands/ssam/thumbs/A-01.jpg"
-    ]
+    ],
+    "note": "브라운 배경과 화이트 글자로 수정했고, 로고 중앙의 잎은 그린입니다."
    },
    {
     "id": "B",
@@ -39,7 +40,7 @@
      "brands/ssam/thumbs/B-06.jpg",
      "brands/ssam/thumbs/B-07.jpg"
     ],
-    "note": "기존 쌈쌈 검토 샘플입니다. A·C 최신 수정본과 제작 시점이 다릅니다."
+    "note": "원과 배경을 쌈쌈 팔레트 색상으로 맞춘 수정본입니다."
    },
    {
     "id": "C",
@@ -84,7 +85,8 @@
      "brands/ssam/thumbs/C-35.jpg",
      "brands/ssam/thumbs/C-36.jpg",
      "brands/ssam/thumbs/C-37.jpg"
-    ]
+    ],
+    "note": "라임 버전입니다. 이번 수정 대상이 아닙니다."
    },
    {
     "id": "D",
@@ -133,7 +135,7 @@
      "brands/ssam/thumbs/D-39.jpg",
      "brands/ssam/thumbs/D-40.jpg"
     ],
-    "note": "기존 쌈쌈 검토 샘플입니다. A·C 최신 수정본과 제작 시점이 다릅니다."
+    "note": "사진을 페이지와 칸에 꽉 차게 넣은 수정본입니다."
    },
    {
     "id": "AC-comparison",
@@ -144,7 +146,8 @@
      "brands/ssam/thumbs/AC-comparison-02.jpg",
      "brands/ssam/thumbs/AC-comparison-13.jpg",
      "brands/ssam/thumbs/AC-comparison-31.jpg"
-    ]
+    ],
+    "note": "라임 버전 A·C 기준의 비교 자료입니다."
    }
   ],
   "mockups": []
